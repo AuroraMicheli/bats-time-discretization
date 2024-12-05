@@ -42,7 +42,7 @@ class AbstractMonitor(ABC):
         plt.grid(True)
         plt.xlabel("Epoch")
         plt.ylabel(self._name)
-        plt.savefig(self._export_path.with_suffix('.png'))
+        #plt.savefig(self._export_path.with_suffix('.png'))
         plt.close()
 
     def return_vals(self) -> list:

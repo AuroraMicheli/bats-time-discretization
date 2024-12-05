@@ -1,0 +1,1126 @@
+Using GPU: b'NVIDIA A40'
+This network will be trained using DT = 0.007
+Numpy seed: 1976814887, Cupy seed: 891974198
+Loading datasets...
+Creating network...
+Training...
+Train | Epoch 0.1 | Loss: 112.79, Accuracy (%): 22.7, Silent labels (%): 11.56, Time (s): 5.23
+Train | Epoch 0.2 | Loss: 66.37, Accuracy (%): 49.24, Silent labels (%): 0.33, Time (s): 8.54
+Train | Epoch 0.3 | Loss: 59.28, Accuracy (%): 57.37, Silent labels (%): 0.0, Time (s): 11.77
+Train | Epoch 0.4 | Loss: 55.31, Accuracy (%): 61.47, Silent labels (%): 0.0, Time (s): 14.96
+Train | Epoch 0.5 | Loss: 53.29, Accuracy (%): 63.09, Silent labels (%): 0.0, Time (s): 18.1
+Train | Epoch 0.6 | Loss: 50.89, Accuracy (%): 64.59, Silent labels (%): 0.0, Time (s): 21.17
+Train | Epoch 0.7 | Loss: 48.83, Accuracy (%): 66.56, Silent labels (%): 0.0, Time (s): 24.2
+Train | Epoch 0.8 | Loss: 47.67, Accuracy (%): 67.93, Silent labels (%): 0.0, Time (s): 27.14
+Train | Epoch 0.9 | Loss: 46.73, Accuracy (%): 69.11, Silent labels (%): 0.0, Time (s): 30.03
+Train | Epoch 1.0 | Loss: 45.6, Accuracy (%): 69.66, Silent labels (%): 0.0, Time (s): 32.89
+Test | Epoch 1.0 | Loss: 45.41, Accuracy (%): 69.13, Learning rate: 0.003, Hidden layer 1 spike counts: 408.48, Output layer spike counts: 147.05, Hidden layer 1 silents (%): 0.75, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 345.04, Output layer weights norm: 82.8, Time (s): 2.29
+Best accuracy: 69.13%, Networks save to: best_model
+Train | Epoch 1.1 | Loss: 44.08, Accuracy (%): 70.2, Silent labels (%): 0.0, Time (s): 3.3
+Train | Epoch 1.2 | Loss: 43.59, Accuracy (%): 71.01, Silent labels (%): 0.0, Time (s): 6.07
+Train | Epoch 1.3 | Loss: 43.0, Accuracy (%): 70.65, Silent labels (%): 0.0, Time (s): 8.79
+Train | Epoch 1.4 | Loss: 42.64, Accuracy (%): 70.58, Silent labels (%): 0.0, Time (s): 11.48
+Train | Epoch 1.5 | Loss: 41.95, Accuracy (%): 71.63, Silent labels (%): 0.0, Time (s): 14.13
+Train | Epoch 1.6 | Loss: 40.63, Accuracy (%): 73.48, Silent labels (%): 0.0, Time (s): 16.79
+Train | Epoch 1.7 | Loss: 41.04, Accuracy (%): 72.81, Silent labels (%): 0.0, Time (s): 19.42
+Train | Epoch 1.8 | Loss: 40.18, Accuracy (%): 73.71, Silent labels (%): 0.0, Time (s): 22.04
+Train | Epoch 1.9 | Loss: 39.79, Accuracy (%): 73.32, Silent labels (%): 0.0, Time (s): 24.61
+Train | Epoch 2.0 | Loss: 39.74, Accuracy (%): 73.41, Silent labels (%): 0.0, Time (s): 27.18
+Test | Epoch 2.0 | Loss: 39.51, Accuracy (%): 73.6, Learning rate: 0.003, Hidden layer 1 spike counts: 357.95, Output layer spike counts: 149.0, Hidden layer 1 silents (%): 0.5, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 368.54, Output layer weights norm: 86.73, Time (s): 1.84
+Best accuracy: 73.6%, Networks save to: best_model
+Train | Epoch 2.1 | Loss: 38.78, Accuracy (%): 74.03, Silent labels (%): 0.0, Time (s): 2.84
+Train | Epoch 2.2 | Loss: 38.56, Accuracy (%): 74.64, Silent labels (%): 0.0, Time (s): 5.37
+Train | Epoch 2.3 | Loss: 37.84, Accuracy (%): 74.69, Silent labels (%): 0.0, Time (s): 7.88
+Train | Epoch 2.4 | Loss: 37.74, Accuracy (%): 75.0, Silent labels (%): 0.01, Time (s): 10.4
+Train | Epoch 2.5 | Loss: 37.38, Accuracy (%): 75.5, Silent labels (%): 0.0, Time (s): 12.9
+Train | Epoch 2.6 | Loss: 37.43, Accuracy (%): 75.48, Silent labels (%): 0.0, Time (s): 15.4
+Train | Epoch 2.7 | Loss: 36.76, Accuracy (%): 75.91, Silent labels (%): 0.0, Time (s): 17.89
+Train | Epoch 2.8 | Loss: 36.89, Accuracy (%): 75.96, Silent labels (%): 0.0, Time (s): 20.37
+Train | Epoch 2.9 | Loss: 36.69, Accuracy (%): 75.49, Silent labels (%): 0.0, Time (s): 22.83
+Train | Epoch 3.0 | Loss: 36.52, Accuracy (%): 75.46, Silent labels (%): 0.01, Time (s): 25.3
+Test | Epoch 3.0 | Loss: 36.64, Accuracy (%): 75.37, Learning rate: 0.003, Hidden layer 1 spike counts: 325.58, Output layer spike counts: 150.38, Hidden layer 1 silents (%): 0.25, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 392.81, Output layer weights norm: 90.16, Time (s): 1.75
+Best accuracy: 75.37%, Networks save to: best_model
+Train | Epoch 3.1 | Loss: 35.48, Accuracy (%): 76.73, Silent labels (%): 0.0, Time (s): 2.66
+Train | Epoch 3.2 | Loss: 35.55, Accuracy (%): 76.28, Silent labels (%): 0.0, Time (s): 5.12
+Train | Epoch 3.3 | Loss: 35.46, Accuracy (%): 76.63, Silent labels (%): 0.0, Time (s): 7.56
+Train | Epoch 3.4 | Loss: 35.16, Accuracy (%): 76.97, Silent labels (%): 0.0, Time (s): 10.02
+Train | Epoch 3.5 | Loss: 34.63, Accuracy (%): 77.63, Silent labels (%): 0.01, Time (s): 12.46
+Train | Epoch 3.6 | Loss: 34.8, Accuracy (%): 77.65, Silent labels (%): 0.0, Time (s): 14.89
+Train | Epoch 3.7 | Loss: 34.91, Accuracy (%): 76.69, Silent labels (%): 0.0, Time (s): 17.32
+Train | Epoch 3.8 | Loss: 34.76, Accuracy (%): 76.52, Silent labels (%): 0.0, Time (s): 19.75
+Train | Epoch 3.9 | Loss: 34.64, Accuracy (%): 77.25, Silent labels (%): 0.0, Time (s): 22.17
+Train | Epoch 4.0 | Loss: 34.6, Accuracy (%): 76.88, Silent labels (%): 0.01, Time (s): 24.59
+Test | Epoch 4.0 | Loss: 35.04, Accuracy (%): 76.66, Learning rate: 0.003, Hidden layer 1 spike counts: 301.14, Output layer spike counts: 148.75, Hidden layer 1 silents (%): 0.25, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 417.36, Output layer weights norm: 93.66, Time (s): 1.75
+Best accuracy: 76.66%, Networks save to: best_model
+Train | Epoch 4.1 | Loss: 34.05, Accuracy (%): 77.48, Silent labels (%): 0.0, Time (s): 2.54
+Train | Epoch 4.2 | Loss: 33.61, Accuracy (%): 78.36, Silent labels (%): 0.01, Time (s): 4.94
+Train | Epoch 4.3 | Loss: 34.02, Accuracy (%): 77.56, Silent labels (%): 0.0, Time (s): 7.34
+Train | Epoch 4.4 | Loss: 33.43, Accuracy (%): 78.52, Silent labels (%): 0.0, Time (s): 9.74
+Train | Epoch 4.5 | Loss: 33.45, Accuracy (%): 78.27, Silent labels (%): 0.01, Time (s): 12.13
+Train | Epoch 4.6 | Loss: 33.34, Accuracy (%): 77.78, Silent labels (%): 0.0, Time (s): 14.52
+Train | Epoch 4.7 | Loss: 33.49, Accuracy (%): 77.46, Silent labels (%): 0.0, Time (s): 16.91
+Train | Epoch 4.8 | Loss: 33.18, Accuracy (%): 78.1, Silent labels (%): 0.0, Time (s): 19.29
+Train | Epoch 4.9 | Loss: 32.66, Accuracy (%): 78.83, Silent labels (%): 0.01, Time (s): 21.68
+Train | Epoch 5.0 | Loss: 32.48, Accuracy (%): 78.89, Silent labels (%): 0.0, Time (s): 24.06
+Test | Epoch 5.0 | Loss: 33.65, Accuracy (%): 77.34, Learning rate: 0.003, Hidden layer 1 spike counts: 284.65, Output layer spike counts: 150.55, Hidden layer 1 silents (%): 0.25, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 441.45, Output layer weights norm: 96.92, Time (s): 1.72
+Best accuracy: 77.34%, Networks save to: best_model
+Train | Epoch 5.1 | Loss: 33.01, Accuracy (%): 78.23, Silent labels (%): 0.01, Time (s): 2.52
+Train | Epoch 5.2 | Loss: 32.53, Accuracy (%): 78.64, Silent labels (%): 0.0, Time (s): 4.9
+Train | Epoch 5.3 | Loss: 32.69, Accuracy (%): 78.67, Silent labels (%): 0.0, Time (s): 7.28
+Train | Epoch 5.4 | Loss: 32.44, Accuracy (%): 78.72, Silent labels (%): 0.0, Time (s): 9.65
+Train | Epoch 5.5 | Loss: 32.21, Accuracy (%): 79.0, Silent labels (%): 0.01, Time (s): 12.03
+Train | Epoch 5.6 | Loss: 32.15, Accuracy (%): 78.91, Silent labels (%): 0.0, Time (s): 14.4
+Train | Epoch 5.7 | Loss: 32.16, Accuracy (%): 79.05, Silent labels (%): 0.0, Time (s): 16.77
+Train | Epoch 5.8 | Loss: 31.74, Accuracy (%): 79.3, Silent labels (%): 0.0, Time (s): 19.13
+Train | Epoch 5.9 | Loss: 32.45, Accuracy (%): 78.78, Silent labels (%): 0.0, Time (s): 21.49
+Train | Epoch 6.0 | Loss: 31.65, Accuracy (%): 79.48, Silent labels (%): 0.0, Time (s): 23.85
+Test | Epoch 6.0 | Loss: 32.89, Accuracy (%): 78.02, Learning rate: 0.003, Hidden layer 1 spike counts: 274.9, Output layer spike counts: 150.43, Hidden layer 1 silents (%): 0.25, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 465.11, Output layer weights norm: 100.16, Time (s): 1.74
+Best accuracy: 78.02%, Networks save to: best_model
+Train | Epoch 6.1 | Loss: 31.56, Accuracy (%): 79.5, Silent labels (%): 0.0, Time (s): 2.47
+Train | Epoch 6.2 | Loss: 31.22, Accuracy (%): 79.87, Silent labels (%): 0.01, Time (s): 4.84
+Train | Epoch 6.3 | Loss: 31.69, Accuracy (%): 78.95, Silent labels (%): 0.0, Time (s): 7.2
+Train | Epoch 6.4 | Loss: 31.52, Accuracy (%): 79.55, Silent labels (%): 0.0, Time (s): 9.56
+Train | Epoch 6.5 | Loss: 31.56, Accuracy (%): 79.16, Silent labels (%): 0.01, Time (s): 11.92
+Train | Epoch 6.6 | Loss: 31.55, Accuracy (%): 79.88, Silent labels (%): 0.0, Time (s): 14.28
+Train | Epoch 6.7 | Loss: 31.14, Accuracy (%): 79.61, Silent labels (%): 0.0, Time (s): 16.64
+Train | Epoch 6.8 | Loss: 31.21, Accuracy (%): 79.41, Silent labels (%): 0.0, Time (s): 18.99
+Train | Epoch 6.9 | Loss: 31.32, Accuracy (%): 79.52, Silent labels (%): 0.01, Time (s): 21.35
+Train | Epoch 7.0 | Loss: 31.06, Accuracy (%): 79.92, Silent labels (%): 0.01, Time (s): 23.7
+Test | Epoch 7.0 | Loss: 32.17, Accuracy (%): 78.51, Learning rate: 0.003, Hidden layer 1 spike counts: 263.96, Output layer spike counts: 151.9, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 488.55, Output layer weights norm: 103.35, Time (s): 1.73
+Best accuracy: 78.51%, Networks save to: best_model
+Train | Epoch 7.1 | Loss: 30.71, Accuracy (%): 79.87, Silent labels (%): 0.0, Time (s): 2.33
+Train | Epoch 7.2 | Loss: 30.82, Accuracy (%): 80.06, Silent labels (%): 0.01, Time (s): 4.69
+Train | Epoch 7.3 | Loss: 30.5, Accuracy (%): 80.19, Silent labels (%): 0.0, Time (s): 7.03
+Train | Epoch 7.4 | Loss: 30.75, Accuracy (%): 80.28, Silent labels (%): 0.0, Time (s): 9.37
+Train | Epoch 7.5 | Loss: 30.49, Accuracy (%): 79.89, Silent labels (%): 0.0, Time (s): 11.7
+Train | Epoch 7.6 | Loss: 30.78, Accuracy (%): 79.83, Silent labels (%): 0.0, Time (s): 14.03
+Train | Epoch 7.7 | Loss: 31.03, Accuracy (%): 80.11, Silent labels (%): 0.0, Time (s): 16.37
+Train | Epoch 7.8 | Loss: 30.79, Accuracy (%): 79.96, Silent labels (%): 0.0, Time (s): 18.7
+Train | Epoch 7.9 | Loss: 30.65, Accuracy (%): 80.02, Silent labels (%): 0.0, Time (s): 21.02
+Train | Epoch 8.0 | Loss: 30.62, Accuracy (%): 80.11, Silent labels (%): 0.0, Time (s): 23.35
+Test | Epoch 8.0 | Loss: 31.88, Accuracy (%): 78.85, Learning rate: 0.003, Hidden layer 1 spike counts: 250.96, Output layer spike counts: 148.92, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 511.19, Output layer weights norm: 106.59, Time (s): 1.7
+Best accuracy: 78.85%, Networks save to: best_model
+Train | Epoch 8.1 | Loss: 30.13, Accuracy (%): 80.6, Silent labels (%): 0.0, Time (s): 2.35
+Train | Epoch 8.2 | Loss: 29.96, Accuracy (%): 80.69, Silent labels (%): 0.0, Time (s): 4.67
+Train | Epoch 8.3 | Loss: 30.3, Accuracy (%): 80.57, Silent labels (%): 0.0, Time (s): 7.01
+Train | Epoch 8.4 | Loss: 30.22, Accuracy (%): 80.04, Silent labels (%): 0.01, Time (s): 9.34
+Train | Epoch 8.5 | Loss: 30.25, Accuracy (%): 80.36, Silent labels (%): 0.0, Time (s): 11.69
+Train | Epoch 8.6 | Loss: 30.07, Accuracy (%): 80.47, Silent labels (%): 0.0, Time (s): 14.02
+Train | Epoch 8.7 | Loss: 30.1, Accuracy (%): 80.45, Silent labels (%): 0.0, Time (s): 16.35
+Train | Epoch 8.8 | Loss: 30.23, Accuracy (%): 80.49, Silent labels (%): 0.0, Time (s): 18.67
+Train | Epoch 8.9 | Loss: 30.25, Accuracy (%): 80.25, Silent labels (%): 0.0, Time (s): 20.99
+Train | Epoch 9.0 | Loss: 29.8, Accuracy (%): 80.51, Silent labels (%): 0.0, Time (s): 23.3
+Test | Epoch 9.0 | Loss: 31.53, Accuracy (%): 79.17, Learning rate: 0.003, Hidden layer 1 spike counts: 241.15, Output layer spike counts: 148.44, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 533.36, Output layer weights norm: 109.83, Time (s): 1.72
+Best accuracy: 79.17%, Networks save to: best_model
+Train | Epoch 9.1 | Loss: 29.98, Accuracy (%): 80.78, Silent labels (%): 0.0, Time (s): 2.18
+Train | Epoch 9.2 | Loss: 29.86, Accuracy (%): 80.59, Silent labels (%): 0.0, Time (s): 4.46
+Train | Epoch 9.3 | Loss: 29.71, Accuracy (%): 80.91, Silent labels (%): 0.0, Time (s): 6.75
+Train | Epoch 9.4 | Loss: 29.52, Accuracy (%): 80.66, Silent labels (%): 0.0, Time (s): 9.04
+Train | Epoch 9.5 | Loss: 29.48, Accuracy (%): 80.68, Silent labels (%): 0.0, Time (s): 11.32
+Train | Epoch 9.6 | Loss: 29.83, Accuracy (%): 80.79, Silent labels (%): 0.0, Time (s): 13.6
+Train | Epoch 9.7 | Loss: 29.26, Accuracy (%): 81.17, Silent labels (%): 0.01, Time (s): 15.88
+Train | Epoch 9.8 | Loss: 29.71, Accuracy (%): 80.85, Silent labels (%): 0.0, Time (s): 18.18
+Train | Epoch 9.9 | Loss: 29.41, Accuracy (%): 80.97, Silent labels (%): 0.01, Time (s): 20.46
+Train | Epoch 10.0 | Loss: 29.35, Accuracy (%): 80.51, Silent labels (%): 0.0, Time (s): 22.75
+Test | Epoch 10.0 | Loss: 31.0, Accuracy (%): 79.16, Learning rate: 0.003, Hidden layer 1 spike counts: 236.97, Output layer spike counts: 150.98, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 554.78, Output layer weights norm: 113.14, Time (s): 1.7
+Train | Epoch 10.1 | Loss: 29.75, Accuracy (%): 80.6, Silent labels (%): 0.0, Time (s): 2.2
+Train | Epoch 10.2 | Loss: 29.1, Accuracy (%): 81.46, Silent labels (%): 0.0, Time (s): 4.51
+Train | Epoch 10.3 | Loss: 29.74, Accuracy (%): 80.47, Silent labels (%): 0.0, Time (s): 6.82
+Train | Epoch 10.4 | Loss: 28.86, Accuracy (%): 81.32, Silent labels (%): 0.01, Time (s): 9.13
+Train | Epoch 10.5 | Loss: 29.3, Accuracy (%): 81.02, Silent labels (%): 0.01, Time (s): 11.44
+Train | Epoch 10.6 | Loss: 29.02, Accuracy (%): 81.34, Silent labels (%): 0.0, Time (s): 13.74
+Train | Epoch 10.7 | Loss: 29.48, Accuracy (%): 80.82, Silent labels (%): 0.0, Time (s): 16.05
+Train | Epoch 10.8 | Loss: 29.06, Accuracy (%): 81.07, Silent labels (%): 0.0, Time (s): 18.35
+Train | Epoch 10.9 | Loss: 28.97, Accuracy (%): 81.24, Silent labels (%): 0.0, Time (s): 20.64
+Train | Epoch 11.0 | Loss: 29.1, Accuracy (%): 81.03, Silent labels (%): 0.0, Time (s): 22.93
+Test | Epoch 11.0 | Loss: 30.7, Accuracy (%): 79.2, Learning rate: 0.003, Hidden layer 1 spike counts: 232.57, Output layer spike counts: 150.77, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 575.61, Output layer weights norm: 116.26, Time (s): 1.7
+Best accuracy: 79.2%, Networks save to: best_model
+Train | Epoch 11.1 | Loss: 28.72, Accuracy (%): 81.27, Silent labels (%): 0.01, Time (s): 2.08
+Train | Epoch 11.2 | Loss: 28.96, Accuracy (%): 81.11, Silent labels (%): 0.0, Time (s): 4.37
+Train | Epoch 11.3 | Loss: 28.61, Accuracy (%): 81.71, Silent labels (%): 0.0, Time (s): 6.66
+Train | Epoch 11.4 | Loss: 28.9, Accuracy (%): 81.56, Silent labels (%): 0.0, Time (s): 8.96
+Train | Epoch 11.5 | Loss: 28.61, Accuracy (%): 81.58, Silent labels (%): 0.0, Time (s): 11.24
+Train | Epoch 11.6 | Loss: 28.94, Accuracy (%): 81.05, Silent labels (%): 0.0, Time (s): 13.53
+Train | Epoch 11.7 | Loss: 28.95, Accuracy (%): 80.77, Silent labels (%): 0.0, Time (s): 15.82
+Train | Epoch 11.8 | Loss: 28.82, Accuracy (%): 81.4, Silent labels (%): 0.0, Time (s): 18.1
+Train | Epoch 11.9 | Loss: 28.9, Accuracy (%): 81.25, Silent labels (%): 0.01, Time (s): 20.39
+Train | Epoch 12.0 | Loss: 28.78, Accuracy (%): 81.32, Silent labels (%): 0.0, Time (s): 22.67
+Test | Epoch 12.0 | Loss: 30.5, Accuracy (%): 79.69, Learning rate: 0.003, Hidden layer 1 spike counts: 222.11, Output layer spike counts: 149.47, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 596.15, Output layer weights norm: 119.56, Time (s): 1.71
+Best accuracy: 79.69%, Networks save to: best_model
+Train | Epoch 12.1 | Loss: 28.87, Accuracy (%): 81.09, Silent labels (%): 0.0, Time (s): 2.01
+Train | Epoch 12.2 | Loss: 28.07, Accuracy (%): 81.79, Silent labels (%): 0.0, Time (s): 4.28
+Train | Epoch 12.3 | Loss: 28.17, Accuracy (%): 81.86, Silent labels (%): 0.0, Time (s): 6.56
+Train | Epoch 12.4 | Loss: 28.78, Accuracy (%): 81.06, Silent labels (%): 0.0, Time (s): 8.84
+Train | Epoch 12.5 | Loss: 28.25, Accuracy (%): 81.96, Silent labels (%): 0.0, Time (s): 11.11
+Train | Epoch 12.6 | Loss: 28.66, Accuracy (%): 81.46, Silent labels (%): 0.02, Time (s): 13.39
+Train | Epoch 12.7 | Loss: 28.69, Accuracy (%): 81.49, Silent labels (%): 0.0, Time (s): 15.66
+Train | Epoch 12.8 | Loss: 28.41, Accuracy (%): 81.54, Silent labels (%): 0.0, Time (s): 17.94
+Train | Epoch 12.9 | Loss: 28.41, Accuracy (%): 81.8, Silent labels (%): 0.0, Time (s): 20.21
+Train | Epoch 13.0 | Loss: 28.57, Accuracy (%): 81.24, Silent labels (%): 0.0, Time (s): 22.48
+Test | Epoch 13.0 | Loss: 30.17, Accuracy (%): 79.93, Learning rate: 0.003, Hidden layer 1 spike counts: 218.75, Output layer spike counts: 150.84, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 615.9, Output layer weights norm: 122.92, Time (s): 1.7
+Best accuracy: 79.93%, Networks save to: best_model
+Train | Epoch 13.1 | Loss: 28.53, Accuracy (%): 81.4, Silent labels (%): 0.01, Time (s): 1.92
+Train | Epoch 13.2 | Loss: 28.29, Accuracy (%): 81.22, Silent labels (%): 0.0, Time (s): 4.17
+Train | Epoch 13.3 | Loss: 28.18, Accuracy (%): 81.8, Silent labels (%): 0.0, Time (s): 6.43
+Train | Epoch 13.4 | Loss: 27.97, Accuracy (%): 82.55, Silent labels (%): 0.0, Time (s): 8.69
+Train | Epoch 13.5 | Loss: 28.11, Accuracy (%): 81.83, Silent labels (%): 0.0, Time (s): 10.95
+Train | Epoch 13.6 | Loss: 28.62, Accuracy (%): 81.07, Silent labels (%): 0.0, Time (s): 13.21
+Train | Epoch 13.7 | Loss: 28.29, Accuracy (%): 81.64, Silent labels (%): 0.01, Time (s): 15.46
+Train | Epoch 13.8 | Loss: 28.24, Accuracy (%): 82.06, Silent labels (%): 0.02, Time (s): 17.71
+Train | Epoch 13.9 | Loss: 27.94, Accuracy (%): 82.16, Silent labels (%): 0.0, Time (s): 19.97
+Train | Epoch 14.0 | Loss: 27.92, Accuracy (%): 81.84, Silent labels (%): 0.01, Time (s): 22.22
+Test | Epoch 14.0 | Loss: 30.09, Accuracy (%): 79.72, Learning rate: 0.003, Hidden layer 1 spike counts: 216.46, Output layer spike counts: 151.46, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 635.11, Output layer weights norm: 126.03, Time (s): 1.69
+Train | Epoch 14.1 | Loss: 27.85, Accuracy (%): 82.2, Silent labels (%): 0.0, Time (s): 1.91
+Train | Epoch 14.2 | Loss: 27.49, Accuracy (%): 82.56, Silent labels (%): 0.0, Time (s): 4.18
+Train | Epoch 14.3 | Loss: 28.01, Accuracy (%): 81.77, Silent labels (%): 0.0, Time (s): 6.46
+Train | Epoch 14.4 | Loss: 27.85, Accuracy (%): 81.86, Silent labels (%): 0.01, Time (s): 8.71
+Train | Epoch 14.5 | Loss: 27.81, Accuracy (%): 82.1, Silent labels (%): 0.0, Time (s): 10.97
+Train | Epoch 14.6 | Loss: 27.95, Accuracy (%): 81.72, Silent labels (%): 0.01, Time (s): 13.22
+Train | Epoch 14.7 | Loss: 28.29, Accuracy (%): 81.72, Silent labels (%): 0.0, Time (s): 15.48
+Train | Epoch 14.8 | Loss: 27.56, Accuracy (%): 82.44, Silent labels (%): 0.0, Time (s): 17.74
+Train | Epoch 14.9 | Loss: 27.81, Accuracy (%): 81.76, Silent labels (%): 0.0, Time (s): 19.99
+Train | Epoch 15.0 | Loss: 28.25, Accuracy (%): 81.79, Silent labels (%): 0.0, Time (s): 22.24
+Test | Epoch 15.0 | Loss: 29.98, Accuracy (%): 79.85, Learning rate: 0.003, Hidden layer 1 spike counts: 209.15, Output layer spike counts: 150.54, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 653.98, Output layer weights norm: 129.16, Time (s): 1.69
+Train | Epoch 15.1 | Loss: 27.55, Accuracy (%): 82.58, Silent labels (%): 0.0, Time (s): 1.81
+Train | Epoch 15.2 | Loss: 27.02, Accuracy (%): 83.03, Silent labels (%): 0.0, Time (s): 4.07
+Train | Epoch 15.3 | Loss: 27.4, Accuracy (%): 82.01, Silent labels (%): 0.0, Time (s): 6.32
+Train | Epoch 15.4 | Loss: 27.92, Accuracy (%): 82.14, Silent labels (%): 0.0, Time (s): 8.58
+Train | Epoch 15.5 | Loss: 27.78, Accuracy (%): 82.16, Silent labels (%): 0.01, Time (s): 10.84
+Train | Epoch 15.6 | Loss: 27.58, Accuracy (%): 82.14, Silent labels (%): 0.0, Time (s): 13.1
+Train | Epoch 15.7 | Loss: 28.04, Accuracy (%): 81.84, Silent labels (%): 0.0, Time (s): 15.36
+Train | Epoch 15.8 | Loss: 27.7, Accuracy (%): 82.13, Silent labels (%): 0.0, Time (s): 17.61
+Train | Epoch 15.9 | Loss: 27.87, Accuracy (%): 81.8, Silent labels (%): 0.0, Time (s): 19.87
+Train | Epoch 16.0 | Loss: 27.86, Accuracy (%): 81.84, Silent labels (%): 0.0, Time (s): 22.12
+Test | Epoch 16.0 | Loss: 29.99, Accuracy (%): 80.01, Learning rate: 0.003, Hidden layer 1 spike counts: 205.95, Output layer spike counts: 149.53, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 672.2, Output layer weights norm: 132.07, Time (s): 1.7
+Best accuracy: 80.01%, Networks save to: best_model
+Train | Epoch 16.1 | Loss: 27.11, Accuracy (%): 82.48, Silent labels (%): 0.0, Time (s): 1.79
+Train | Epoch 16.2 | Loss: 27.46, Accuracy (%): 82.36, Silent labels (%): 0.01, Time (s): 4.03
+Train | Epoch 16.3 | Loss: 27.41, Accuracy (%): 82.48, Silent labels (%): 0.0, Time (s): 6.28
+Train | Epoch 16.4 | Loss: 27.32, Accuracy (%): 82.36, Silent labels (%): 0.0, Time (s): 8.54
+Train | Epoch 16.5 | Loss: 27.37, Accuracy (%): 82.14, Silent labels (%): 0.0, Time (s): 10.81
+Train | Epoch 16.6 | Loss: 27.03, Accuracy (%): 82.84, Silent labels (%): 0.0, Time (s): 13.07
+Train | Epoch 16.7 | Loss: 27.62, Accuracy (%): 82.29, Silent labels (%): 0.0, Time (s): 15.34
+Train | Epoch 16.8 | Loss: 27.37, Accuracy (%): 82.37, Silent labels (%): 0.0, Time (s): 17.59
+Train | Epoch 16.9 | Loss: 27.51, Accuracy (%): 82.31, Silent labels (%): 0.0, Time (s): 19.86
+Train | Epoch 17.0 | Loss: 27.89, Accuracy (%): 81.96, Silent labels (%): 0.0, Time (s): 22.12
+Test | Epoch 17.0 | Loss: 29.72, Accuracy (%): 80.11, Learning rate: 0.003, Hidden layer 1 spike counts: 205.88, Output layer spike counts: 151.85, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 690.05, Output layer weights norm: 135.18, Time (s): 1.7
+Best accuracy: 80.11%, Networks save to: best_model
+Train | Epoch 17.1 | Loss: 27.44, Accuracy (%): 82.18, Silent labels (%): 0.0, Time (s): 1.69
+Train | Epoch 17.2 | Loss: 27.17, Accuracy (%): 82.29, Silent labels (%): 0.01, Time (s): 3.93
+Train | Epoch 17.3 | Loss: 27.28, Accuracy (%): 82.45, Silent labels (%): 0.0, Time (s): 6.18
+Train | Epoch 17.4 | Loss: 26.85, Accuracy (%): 82.68, Silent labels (%): 0.0, Time (s): 8.42
+Train | Epoch 17.5 | Loss: 27.21, Accuracy (%): 82.66, Silent labels (%): 0.0, Time (s): 10.67
+Train | Epoch 17.6 | Loss: 27.13, Accuracy (%): 82.54, Silent labels (%): 0.01, Time (s): 12.92
+Train | Epoch 17.7 | Loss: 27.25, Accuracy (%): 82.64, Silent labels (%): 0.0, Time (s): 15.17
+Train | Epoch 17.8 | Loss: 27.23, Accuracy (%): 82.31, Silent labels (%): 0.0, Time (s): 17.41
+Train | Epoch 17.9 | Loss: 27.33, Accuracy (%): 82.41, Silent labels (%): 0.0, Time (s): 19.66
+Train | Epoch 18.0 | Loss: 27.39, Accuracy (%): 82.73, Silent labels (%): 0.01, Time (s): 21.9
+Test | Epoch 18.0 | Loss: 29.57, Accuracy (%): 80.16, Learning rate: 0.003, Hidden layer 1 spike counts: 200.45, Output layer spike counts: 151.4, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 707.42, Output layer weights norm: 138.25, Time (s): 1.69
+Best accuracy: 80.16%, Networks save to: best_model
+Train | Epoch 18.1 | Loss: 27.28, Accuracy (%): 82.27, Silent labels (%): 0.0, Time (s): 1.63
+Train | Epoch 18.2 | Loss: 26.65, Accuracy (%): 82.92, Silent labels (%): 0.0, Time (s): 3.88
+Train | Epoch 18.3 | Loss: 26.98, Accuracy (%): 82.73, Silent labels (%): 0.0, Time (s): 6.12
+Train | Epoch 18.4 | Loss: 26.78, Accuracy (%): 83.39, Silent labels (%): 0.0, Time (s): 8.38
+Train | Epoch 18.5 | Loss: 27.41, Accuracy (%): 82.08, Silent labels (%): 0.01, Time (s): 10.62
+Train | Epoch 18.6 | Loss: 27.16, Accuracy (%): 82.17, Silent labels (%): 0.0, Time (s): 12.88
+Train | Epoch 18.7 | Loss: 26.64, Accuracy (%): 83.26, Silent labels (%): 0.0, Time (s): 15.14
+Train | Epoch 18.8 | Loss: 27.34, Accuracy (%): 82.67, Silent labels (%): 0.0, Time (s): 17.39
+Train | Epoch 18.8 | Loss: 27.66, Accuracy (%): 82.08, Silent labels (%): 0.01, Time (s): 19.64
+Train | Epoch 18.9 | Loss: 27.13, Accuracy (%): 82.56, Silent labels (%): 0.0, Time (s): 21.89
+Test | Epoch 19.0 | Loss: 29.58, Accuracy (%): 80.07, Learning rate: 0.003, Hidden layer 1 spike counts: 195.5, Output layer spike counts: 149.48, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 724.51, Output layer weights norm: 141.16, Time (s): 1.71
+Train | Epoch 19.0 | Loss: 27.04, Accuracy (%): 82.7, Silent labels (%): 0.01, Time (s): 1.54
+Train | Epoch 19.1 | Loss: 26.96, Accuracy (%): 82.5, Silent labels (%): 0.01, Time (s): 3.76
+Train | Epoch 19.2 | Loss: 26.49, Accuracy (%): 83.29, Silent labels (%): 0.0, Time (s): 6.0
+Train | Epoch 19.3 | Loss: 26.77, Accuracy (%): 82.99, Silent labels (%): 0.0, Time (s): 8.24
+Train | Epoch 19.4 | Loss: 26.87, Accuracy (%): 82.44, Silent labels (%): 0.0, Time (s): 10.47
+Train | Epoch 19.5 | Loss: 26.95, Accuracy (%): 82.68, Silent labels (%): 0.0, Time (s): 12.71
+Train | Epoch 19.6 | Loss: 26.83, Accuracy (%): 83.01, Silent labels (%): 0.0, Time (s): 14.94
+Train | Epoch 19.7 | Loss: 27.2, Accuracy (%): 82.34, Silent labels (%): 0.0, Time (s): 17.17
+Train | Epoch 19.8 | Loss: 27.11, Accuracy (%): 82.45, Silent labels (%): 0.0, Time (s): 19.4
+Train | Epoch 19.9 | Loss: 26.65, Accuracy (%): 83.34, Silent labels (%): 0.0, Time (s): 21.63
+Test | Epoch 20.0 | Loss: 29.43, Accuracy (%): 80.04, Learning rate: 0.003, Hidden layer 1 spike counts: 194.19, Output layer spike counts: 151.53, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 741.29, Output layer weights norm: 144.17, Time (s): 1.69
+Train | Epoch 20.0 | Loss: 26.68, Accuracy (%): 82.79, Silent labels (%): 0.0, Time (s): 1.53
+Train | Epoch 20.1 | Loss: 26.7, Accuracy (%): 82.85, Silent labels (%): 0.0, Time (s): 3.77
+Train | Epoch 20.2 | Loss: 26.39, Accuracy (%): 83.19, Silent labels (%): 0.0, Time (s): 6.0
+Train | Epoch 20.3 | Loss: 26.21, Accuracy (%): 82.95, Silent labels (%): 0.01, Time (s): 8.22
+Train | Epoch 20.4 | Loss: 26.57, Accuracy (%): 82.94, Silent labels (%): 0.01, Time (s): 10.45
+Train | Epoch 20.5 | Loss: 26.8, Accuracy (%): 82.78, Silent labels (%): 0.0, Time (s): 12.67
+Train | Epoch 20.6 | Loss: 26.49, Accuracy (%): 83.04, Silent labels (%): 0.0, Time (s): 14.9
+Train | Epoch 20.7 | Loss: 26.79, Accuracy (%): 82.93, Silent labels (%): 0.0, Time (s): 17.12
+Train | Epoch 20.8 | Loss: 26.94, Accuracy (%): 82.56, Silent labels (%): 0.0, Time (s): 19.34
+Train | Epoch 20.9 | Loss: 26.86, Accuracy (%): 82.52, Silent labels (%): 0.0, Time (s): 21.57
+Test | Epoch 21.0 | Loss: 29.53, Accuracy (%): 80.09, Learning rate: 0.003, Hidden layer 1 spike counts: 191.08, Output layer spike counts: 151.12, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 757.55, Output layer weights norm: 147.17, Time (s): 1.69
+Train | Epoch 21.0 | Loss: 26.87, Accuracy (%): 82.68, Silent labels (%): 0.0, Time (s): 1.41
+Train | Epoch 21.1 | Loss: 26.19, Accuracy (%): 83.29, Silent labels (%): 0.0, Time (s): 3.62
+Train | Epoch 21.2 | Loss: 26.61, Accuracy (%): 83.0, Silent labels (%): 0.0, Time (s): 5.82
+Train | Epoch 21.3 | Loss: 26.47, Accuracy (%): 83.52, Silent labels (%): 0.01, Time (s): 8.03
+Train | Epoch 21.4 | Loss: 26.65, Accuracy (%): 82.84, Silent labels (%): 0.0, Time (s): 10.24
+Train | Epoch 21.5 | Loss: 26.42, Accuracy (%): 83.34, Silent labels (%): 0.01, Time (s): 12.45
+Train | Epoch 21.6 | Loss: 26.38, Accuracy (%): 83.16, Silent labels (%): 0.0, Time (s): 14.66
+Train | Epoch 21.7 | Loss: 26.58, Accuracy (%): 82.73, Silent labels (%): 0.0, Time (s): 16.86
+Train | Epoch 21.8 | Loss: 26.7, Accuracy (%): 82.82, Silent labels (%): 0.0, Time (s): 19.07
+Train | Epoch 21.9 | Loss: 26.62, Accuracy (%): 82.94, Silent labels (%): 0.0, Time (s): 21.29
+Test | Epoch 22.0 | Loss: 29.51, Accuracy (%): 80.12, Learning rate: 0.003, Hidden layer 1 spike counts: 186.04, Output layer spike counts: 149.89, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 773.42, Output layer weights norm: 150.01, Time (s): 1.68
+Train | Epoch 22.0 | Loss: 26.45, Accuracy (%): 83.13, Silent labels (%): 0.0, Time (s): 1.41
+Train | Epoch 22.1 | Loss: 26.38, Accuracy (%): 82.88, Silent labels (%): 0.0, Time (s): 3.61
+Train | Epoch 22.2 | Loss: 25.99, Accuracy (%): 83.54, Silent labels (%): 0.01, Time (s): 5.83
+Train | Epoch 22.3 | Loss: 26.18, Accuracy (%): 83.04, Silent labels (%): 0.0, Time (s): 8.04
+Train | Epoch 22.4 | Loss: 26.73, Accuracy (%): 82.78, Silent labels (%): 0.0, Time (s): 10.26
+Train | Epoch 22.5 | Loss: 26.13, Accuracy (%): 83.55, Silent labels (%): 0.0, Time (s): 12.47
+Train | Epoch 22.6 | Loss: 26.6, Accuracy (%): 83.52, Silent labels (%): 0.0, Time (s): 14.68
+Train | Epoch 22.7 | Loss: 26.45, Accuracy (%): 83.17, Silent labels (%): 0.01, Time (s): 16.89
+Train | Epoch 22.8 | Loss: 26.57, Accuracy (%): 83.27, Silent labels (%): 0.0, Time (s): 19.1
+Train | Epoch 22.9 | Loss: 26.35, Accuracy (%): 83.29, Silent labels (%): 0.01, Time (s): 21.31
+Test | Epoch 23.0 | Loss: 29.38, Accuracy (%): 80.07, Learning rate: 0.003, Hidden layer 1 spike counts: 185.49, Output layer spike counts: 152.52, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 788.81, Output layer weights norm: 152.95, Time (s): 1.69
+Train | Epoch 23.0 | Loss: 26.29, Accuracy (%): 83.04, Silent labels (%): 0.0, Time (s): 1.26
+Train | Epoch 23.1 | Loss: 26.04, Accuracy (%): 83.41, Silent labels (%): 0.0, Time (s): 3.47
+Train | Epoch 23.2 | Loss: 25.74, Accuracy (%): 83.42, Silent labels (%): 0.0, Time (s): 5.67
+Train | Epoch 23.3 | Loss: 25.74, Accuracy (%): 83.7, Silent labels (%): 0.0, Time (s): 7.89
+Train | Epoch 23.4 | Loss: 25.97, Accuracy (%): 83.62, Silent labels (%): 0.0, Time (s): 10.1
+Train | Epoch 23.5 | Loss: 26.13, Accuracy (%): 83.42, Silent labels (%): 0.01, Time (s): 12.3
+Train | Epoch 23.6 | Loss: 26.18, Accuracy (%): 83.49, Silent labels (%): 0.0, Time (s): 14.51
+Train | Epoch 23.7 | Loss: 26.76, Accuracy (%): 82.55, Silent labels (%): 0.0, Time (s): 16.71
+Train | Epoch 23.8 | Loss: 26.64, Accuracy (%): 82.95, Silent labels (%): 0.0, Time (s): 18.91
+Train | Epoch 23.9 | Loss: 26.47, Accuracy (%): 83.0, Silent labels (%): 0.0, Time (s): 21.1
+Test | Epoch 24.0 | Loss: 29.47, Accuracy (%): 80.12, Learning rate: 0.003, Hidden layer 1 spike counts: 181.04, Output layer spike counts: 150.53, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 804.13, Output layer weights norm: 155.82, Time (s): 1.68
+Train | Epoch 24.0 | Loss: 25.89, Accuracy (%): 83.46, Silent labels (%): 0.0, Time (s): 1.27
+Train | Epoch 24.1 | Loss: 25.95, Accuracy (%): 83.47, Silent labels (%): 0.0, Time (s): 3.47
+Train | Epoch 24.2 | Loss: 25.95, Accuracy (%): 83.31, Silent labels (%): 0.0, Time (s): 5.67
+Train | Epoch 24.3 | Loss: 26.17, Accuracy (%): 83.08, Silent labels (%): 0.0, Time (s): 7.89
+Train | Epoch 24.4 | Loss: 26.36, Accuracy (%): 83.0, Silent labels (%): 0.0, Time (s): 10.09
+Train | Epoch 24.5 | Loss: 26.16, Accuracy (%): 83.34, Silent labels (%): 0.01, Time (s): 12.3
+Train | Epoch 24.6 | Loss: 25.87, Accuracy (%): 83.68, Silent labels (%): 0.0, Time (s): 14.5
+Train | Epoch 24.7 | Loss: 26.48, Accuracy (%): 83.13, Silent labels (%): 0.0, Time (s): 16.71
+Train | Epoch 24.8 | Loss: 26.34, Accuracy (%): 83.8, Silent labels (%): 0.01, Time (s): 18.91
+Train | Epoch 24.9 | Loss: 25.99, Accuracy (%): 83.27, Silent labels (%): 0.0, Time (s): 21.11
+Test | Epoch 25.0 | Loss: 29.44, Accuracy (%): 80.36, Learning rate: 0.003, Hidden layer 1 spike counts: 176.91, Output layer spike counts: 149.29, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 819.21, Output layer weights norm: 158.61, Time (s): 1.69
+Best accuracy: 80.36%, Networks save to: best_model
+Train | Epoch 25.0 | Loss: 25.92, Accuracy (%): 83.39, Silent labels (%): 0.0, Time (s): 1.19
+Train | Epoch 25.1 | Loss: 25.87, Accuracy (%): 83.62, Silent labels (%): 0.0, Time (s): 3.38
+Train | Epoch 25.2 | Loss: 25.64, Accuracy (%): 83.87, Silent labels (%): 0.0, Time (s): 5.57
+Train | Epoch 25.3 | Loss: 25.66, Accuracy (%): 83.98, Silent labels (%): 0.01, Time (s): 7.76
+Train | Epoch 25.4 | Loss: 26.12, Accuracy (%): 83.08, Silent labels (%): 0.0, Time (s): 9.96
+Train | Epoch 25.5 | Loss: 26.1, Accuracy (%): 83.41, Silent labels (%): 0.0, Time (s): 12.14
+Train | Epoch 25.6 | Loss: 26.06, Accuracy (%): 83.55, Silent labels (%): 0.0, Time (s): 14.33
+Train | Epoch 25.7 | Loss: 25.79, Accuracy (%): 83.85, Silent labels (%): 0.0, Time (s): 16.52
+Train | Epoch 25.8 | Loss: 26.29, Accuracy (%): 83.0, Silent labels (%): 0.0, Time (s): 18.7
+Train | Epoch 25.9 | Loss: 26.16, Accuracy (%): 83.37, Silent labels (%): 0.0, Time (s): 20.88
+Test | Epoch 26.0 | Loss: 29.27, Accuracy (%): 80.3, Learning rate: 0.003, Hidden layer 1 spike counts: 176.98, Output layer spike counts: 151.55, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 833.97, Output layer weights norm: 161.42, Time (s): 1.68
+Train | Epoch 26.0 | Loss: 25.7, Accuracy (%): 83.96, Silent labels (%): 0.0, Time (s): 1.15
+Train | Epoch 26.1 | Loss: 25.73, Accuracy (%): 83.49, Silent labels (%): 0.0, Time (s): 3.35
+Train | Epoch 26.2 | Loss: 25.78, Accuracy (%): 83.86, Silent labels (%): 0.0, Time (s): 5.55
+Train | Epoch 26.3 | Loss: 25.76, Accuracy (%): 83.71, Silent labels (%): 0.0, Time (s): 7.74
+Train | Epoch 26.4 | Loss: 25.61, Accuracy (%): 83.57, Silent labels (%): 0.0, Time (s): 9.93
+Train | Epoch 26.5 | Loss: 26.05, Accuracy (%): 83.15, Silent labels (%): 0.0, Time (s): 12.13
+Train | Epoch 26.6 | Loss: 25.64, Accuracy (%): 83.88, Silent labels (%): 0.0, Time (s): 14.32
+Train | Epoch 26.7 | Loss: 25.57, Accuracy (%): 83.75, Silent labels (%): 0.0, Time (s): 16.52
+Train | Epoch 26.8 | Loss: 26.41, Accuracy (%): 83.18, Silent labels (%): 0.0, Time (s): 18.71
+Train | Epoch 26.9 | Loss: 26.02, Accuracy (%): 83.56, Silent labels (%): 0.0, Time (s): 20.9
+Test | Epoch 27.0 | Loss: 29.15, Accuracy (%): 80.31, Learning rate: 0.003, Hidden layer 1 spike counts: 174.1, Output layer spike counts: 150.32, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 848.42, Output layer weights norm: 164.17, Time (s): 1.69
+Train | Epoch 27.0 | Loss: 25.82, Accuracy (%): 83.54, Silent labels (%): 0.0, Time (s): 1.01
+Train | Epoch 27.1 | Loss: 25.21, Accuracy (%): 83.93, Silent labels (%): 0.0, Time (s): 3.17
+Train | Epoch 27.2 | Loss: 25.65, Accuracy (%): 83.4, Silent labels (%): 0.0, Time (s): 5.32
+Train | Epoch 27.3 | Loss: 25.71, Accuracy (%): 83.68, Silent labels (%): 0.0, Time (s): 7.47
+Train | Epoch 27.4 | Loss: 25.46, Accuracy (%): 84.3, Silent labels (%): 0.0, Time (s): 9.63
+Train | Epoch 27.5 | Loss: 25.95, Accuracy (%): 83.53, Silent labels (%): 0.0, Time (s): 11.78
+Train | Epoch 27.6 | Loss: 25.78, Accuracy (%): 83.71, Silent labels (%): 0.0, Time (s): 13.94
+Train | Epoch 27.7 | Loss: 25.84, Accuracy (%): 83.69, Silent labels (%): 0.0, Time (s): 16.09
+Train | Epoch 27.8 | Loss: 25.98, Accuracy (%): 83.83, Silent labels (%): 0.0, Time (s): 18.24
+Train | Epoch 27.9 | Loss: 25.65, Accuracy (%): 84.08, Silent labels (%): 0.0, Time (s): 20.4
+Test | Epoch 28.0 | Loss: 29.38, Accuracy (%): 80.12, Learning rate: 0.003, Hidden layer 1 spike counts: 172.03, Output layer spike counts: 152.0, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 862.76, Output layer weights norm: 166.78, Time (s): 1.64
+Train | Epoch 28.0 | Loss: 25.58, Accuracy (%): 83.64, Silent labels (%): 0.01, Time (s): 1.03
+Train | Epoch 28.1 | Loss: 25.31, Accuracy (%): 84.07, Silent labels (%): 0.0, Time (s): 3.2
+Train | Epoch 28.2 | Loss: 25.16, Accuracy (%): 84.32, Silent labels (%): 0.0, Time (s): 5.37
+Train | Epoch 28.3 | Loss: 25.68, Accuracy (%): 83.4, Silent labels (%): 0.0, Time (s): 7.55
+Train | Epoch 28.4 | Loss: 25.56, Accuracy (%): 83.8, Silent labels (%): 0.0, Time (s): 9.73
+Train | Epoch 28.5 | Loss: 25.5, Accuracy (%): 83.72, Silent labels (%): 0.0, Time (s): 11.91
+Train | Epoch 28.6 | Loss: 25.76, Accuracy (%): 83.8, Silent labels (%): 0.01, Time (s): 14.09
+Train | Epoch 28.7 | Loss: 25.52, Accuracy (%): 83.68, Silent labels (%): 0.01, Time (s): 16.27
+Train | Epoch 28.8 | Loss: 25.94, Accuracy (%): 83.2, Silent labels (%): 0.0, Time (s): 18.45
+Train | Epoch 28.9 | Loss: 25.74, Accuracy (%): 83.89, Silent labels (%): 0.0, Time (s): 20.63
+Test | Epoch 29.0 | Loss: 29.25, Accuracy (%): 80.2, Learning rate: 0.003, Hidden layer 1 spike counts: 168.4, Output layer spike counts: 151.28, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 876.57, Output layer weights norm: 169.5, Time (s): 1.66
+Train | Epoch 29.0 | Loss: 25.64, Accuracy (%): 83.74, Silent labels (%): 0.0, Time (s): 0.92
+Train | Epoch 29.1 | Loss: 25.38, Accuracy (%): 83.83, Silent labels (%): 0.01, Time (s): 3.09
+Train | Epoch 29.2 | Loss: 25.46, Accuracy (%): 83.9, Silent labels (%): 0.0, Time (s): 5.25
+Train | Epoch 29.3 | Loss: 25.39, Accuracy (%): 83.68, Silent labels (%): 0.0, Time (s): 7.41
+Train | Epoch 29.4 | Loss: 25.75, Accuracy (%): 84.21, Silent labels (%): 0.01, Time (s): 9.57
+Train | Epoch 29.5 | Loss: 25.48, Accuracy (%): 84.03, Silent labels (%): 0.0, Time (s): 11.73
+Train | Epoch 29.6 | Loss: 25.05, Accuracy (%): 84.43, Silent labels (%): 0.01, Time (s): 13.89
+Train | Epoch 29.7 | Loss: 25.29, Accuracy (%): 84.29, Silent labels (%): 0.0, Time (s): 16.05
+Train | Epoch 29.8 | Loss: 25.78, Accuracy (%): 83.77, Silent labels (%): 0.0, Time (s): 18.21
+Train | Epoch 29.9 | Loss: 25.58, Accuracy (%): 83.34, Silent labels (%): 0.0, Time (s): 20.37
+Test | Epoch 30.0 | Loss: 29.31, Accuracy (%): 80.21, Learning rate: 0.003, Hidden layer 1 spike counts: 166.45, Output layer spike counts: 149.59, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 890.56, Output layer weights norm: 172.14, Time (s): 1.66
+Train | Epoch 30.0 | Loss: 25.75, Accuracy (%): 83.64, Silent labels (%): 0.0, Time (s): 0.95
+Train | Epoch 30.1 | Loss: 25.41, Accuracy (%): 83.89, Silent labels (%): 0.0, Time (s): 3.12
+Train | Epoch 30.2 | Loss: 25.26, Accuracy (%): 83.83, Silent labels (%): 0.0, Time (s): 5.29
+Train | Epoch 30.3 | Loss: 25.02, Accuracy (%): 84.63, Silent labels (%): 0.0, Time (s): 7.46
+Train | Epoch 30.4 | Loss: 25.46, Accuracy (%): 83.88, Silent labels (%): 0.0, Time (s): 9.63
+Train | Epoch 30.5 | Loss: 25.39, Accuracy (%): 83.61, Silent labels (%): 0.0, Time (s): 11.8
+Train | Epoch 30.6 | Loss: 25.08, Accuracy (%): 84.73, Silent labels (%): 0.0, Time (s): 13.97
+Train | Epoch 30.7 | Loss: 25.34, Accuracy (%): 84.15, Silent labels (%): 0.0, Time (s): 16.15
+Train | Epoch 30.8 | Loss: 26.09, Accuracy (%): 83.13, Silent labels (%): 0.0, Time (s): 18.31
+Train | Epoch 30.9 | Loss: 25.32, Accuracy (%): 83.95, Silent labels (%): 0.01, Time (s): 20.48
+Test | Epoch 31.0 | Loss: 29.31, Accuracy (%): 80.16, Learning rate: 0.003, Hidden layer 1 spike counts: 165.14, Output layer spike counts: 150.21, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 904.12, Output layer weights norm: 174.72, Time (s): 1.65
+Train | Epoch 31.0 | Loss: 25.47, Accuracy (%): 84.11, Silent labels (%): 0.0, Time (s): 0.83
+Train | Epoch 31.1 | Loss: 24.86, Accuracy (%): 84.47, Silent labels (%): 0.0, Time (s): 2.98
+Train | Epoch 31.2 | Loss: 24.91, Accuracy (%): 84.22, Silent labels (%): 0.0, Time (s): 5.15
+Train | Epoch 31.3 | Loss: 24.92, Accuracy (%): 84.43, Silent labels (%): 0.0, Time (s): 7.31
+Train | Epoch 31.4 | Loss: 25.47, Accuracy (%): 84.05, Silent labels (%): 0.0, Time (s): 9.47
+Train | Epoch 31.5 | Loss: 25.43, Accuracy (%): 83.72, Silent labels (%): 0.0, Time (s): 11.63
+Train | Epoch 31.6 | Loss: 25.18, Accuracy (%): 84.25, Silent labels (%): 0.0, Time (s): 13.78
+Train | Epoch 31.7 | Loss: 25.41, Accuracy (%): 83.99, Silent labels (%): 0.0, Time (s): 15.93
+Train | Epoch 31.8 | Loss: 25.86, Accuracy (%): 83.3, Silent labels (%): 0.0, Time (s): 18.09
+Train | Epoch 31.9 | Loss: 25.5, Accuracy (%): 83.83, Silent labels (%): 0.0, Time (s): 20.25
+Test | Epoch 32.0 | Loss: 29.35, Accuracy (%): 80.24, Learning rate: 0.003, Hidden layer 1 spike counts: 163.32, Output layer spike counts: 149.98, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 917.26, Output layer weights norm: 176.97, Time (s): 1.65
+Train | Epoch 32.0 | Loss: 25.09, Accuracy (%): 84.61, Silent labels (%): 0.0, Time (s): 0.84
+Train | Epoch 32.1 | Loss: 24.79, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 2.99
+Train | Epoch 32.2 | Loss: 25.02, Accuracy (%): 84.06, Silent labels (%): 0.0, Time (s): 5.14
+Train | Epoch 32.3 | Loss: 24.96, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 7.3
+Train | Epoch 32.4 | Loss: 25.36, Accuracy (%): 83.56, Silent labels (%): 0.0, Time (s): 9.46
+Train | Epoch 32.5 | Loss: 25.47, Accuracy (%): 83.64, Silent labels (%): 0.0, Time (s): 11.61
+Train | Epoch 32.6 | Loss: 25.18, Accuracy (%): 84.27, Silent labels (%): 0.0, Time (s): 13.77
+Train | Epoch 32.7 | Loss: 25.15, Accuracy (%): 83.75, Silent labels (%): 0.01, Time (s): 15.93
+Train | Epoch 32.8 | Loss: 25.08, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 18.09
+Train | Epoch 32.9 | Loss: 25.19, Accuracy (%): 83.92, Silent labels (%): 0.0, Time (s): 20.24
+Test | Epoch 33.0 | Loss: 29.23, Accuracy (%): 80.46, Learning rate: 0.003, Hidden layer 1 spike counts: 162.19, Output layer spike counts: 150.3, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 930.46, Output layer weights norm: 179.48, Time (s): 1.66
+Best accuracy: 80.46%, Networks save to: best_model
+Train | Epoch 33.0 | Loss: 25.28, Accuracy (%): 84.01, Silent labels (%): 0.0, Time (s): 0.68
+Train | Epoch 33.1 | Loss: 24.39, Accuracy (%): 84.62, Silent labels (%): 0.01, Time (s): 2.82
+Train | Epoch 33.2 | Loss: 25.14, Accuracy (%): 84.05, Silent labels (%): 0.0, Time (s): 4.96
+Train | Epoch 33.3 | Loss: 24.98, Accuracy (%): 84.4, Silent labels (%): 0.01, Time (s): 7.1
+Train | Epoch 33.4 | Loss: 25.04, Accuracy (%): 84.42, Silent labels (%): 0.0, Time (s): 9.23
+Train | Epoch 33.5 | Loss: 25.04, Accuracy (%): 84.41, Silent labels (%): 0.0, Time (s): 11.36
+Train | Epoch 33.6 | Loss: 25.13, Accuracy (%): 83.76, Silent labels (%): 0.0, Time (s): 13.5
+Train | Epoch 33.7 | Loss: 25.25, Accuracy (%): 83.88, Silent labels (%): 0.0, Time (s): 15.64
+Train | Epoch 33.8 | Loss: 25.48, Accuracy (%): 83.88, Silent labels (%): 0.0, Time (s): 17.77
+Train | Epoch 33.9 | Loss: 25.21, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 19.9
+Test | Epoch 34.0 | Loss: 29.22, Accuracy (%): 80.39, Learning rate: 0.003, Hidden layer 1 spike counts: 159.67, Output layer spike counts: 151.02, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 943.23, Output layer weights norm: 182.05, Time (s): 1.64
+Train | Epoch 34.0 | Loss: 24.9, Accuracy (%): 84.52, Silent labels (%): 0.0, Time (s): 0.64
+Train | Epoch 34.1 | Loss: 24.54, Accuracy (%): 84.18, Silent labels (%): 0.01, Time (s): 2.78
+Train | Epoch 34.2 | Loss: 25.28, Accuracy (%): 83.96, Silent labels (%): 0.0, Time (s): 4.92
+Train | Epoch 34.3 | Loss: 24.64, Accuracy (%): 84.79, Silent labels (%): 0.01, Time (s): 7.07
+Train | Epoch 34.4 | Loss: 25.3, Accuracy (%): 83.94, Silent labels (%): 0.0, Time (s): 9.22
+Train | Epoch 34.5 | Loss: 25.06, Accuracy (%): 83.99, Silent labels (%): 0.0, Time (s): 11.37
+Train | Epoch 34.6 | Loss: 24.6, Accuracy (%): 85.0, Silent labels (%): 0.0, Time (s): 13.51
+Train | Epoch 34.7 | Loss: 24.95, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 15.65
+Train | Epoch 34.8 | Loss: 24.98, Accuracy (%): 84.32, Silent labels (%): 0.0, Time (s): 17.79
+Train | Epoch 34.9 | Loss: 25.43, Accuracy (%): 83.86, Silent labels (%): 0.0, Time (s): 19.94
+Test | Epoch 35.0 | Loss: 29.21, Accuracy (%): 80.46, Learning rate: 0.003, Hidden layer 1 spike counts: 156.69, Output layer spike counts: 149.57, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 955.95, Output layer weights norm: 184.33, Time (s): 1.64
+Best accuracy: 80.46%, Networks save to: best_model
+Train | Epoch 35.0 | Loss: 24.98, Accuracy (%): 84.3, Silent labels (%): 0.0, Time (s): 0.57
+Train | Epoch 35.1 | Loss: 24.4, Accuracy (%): 84.73, Silent labels (%): 0.0, Time (s): 2.7
+Train | Epoch 35.2 | Loss: 24.87, Accuracy (%): 84.15, Silent labels (%): 0.0, Time (s): 4.82
+Train | Epoch 35.3 | Loss: 24.62, Accuracy (%): 84.23, Silent labels (%): 0.0, Time (s): 6.94
+Train | Epoch 35.4 | Loss: 24.66, Accuracy (%): 84.8, Silent labels (%): 0.0, Time (s): 9.06
+Train | Epoch 35.5 | Loss: 24.71, Accuracy (%): 84.61, Silent labels (%): 0.0, Time (s): 11.18
+Train | Epoch 35.6 | Loss: 25.14, Accuracy (%): 83.58, Silent labels (%): 0.0, Time (s): 13.31
+Train | Epoch 35.7 | Loss: 25.32, Accuracy (%): 83.83, Silent labels (%): 0.0, Time (s): 15.43
+Train | Epoch 35.8 | Loss: 24.82, Accuracy (%): 84.61, Silent labels (%): 0.0, Time (s): 17.55
+Train | Epoch 35.9 | Loss: 25.24, Accuracy (%): 84.05, Silent labels (%): 0.0, Time (s): 19.67
+Test | Epoch 36.0 | Loss: 29.2, Accuracy (%): 80.21, Learning rate: 0.003, Hidden layer 1 spike counts: 156.74, Output layer spike counts: 150.17, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 968.42, Output layer weights norm: 186.77, Time (s): 1.63
+Train | Epoch 36.0 | Loss: 24.93, Accuracy (%): 84.28, Silent labels (%): 0.0, Time (s): 0.6
+Train | Epoch 36.1 | Loss: 24.42, Accuracy (%): 84.86, Silent labels (%): 0.0, Time (s): 2.73
+Train | Epoch 36.2 | Loss: 24.63, Accuracy (%): 84.49, Silent labels (%): 0.0, Time (s): 4.86
+Train | Epoch 36.3 | Loss: 24.76, Accuracy (%): 84.35, Silent labels (%): 0.0, Time (s): 7.0
+Train | Epoch 36.4 | Loss: 24.6, Accuracy (%): 84.26, Silent labels (%): 0.0, Time (s): 9.13
+Train | Epoch 36.5 | Loss: 24.86, Accuracy (%): 84.17, Silent labels (%): 0.0, Time (s): 11.27
+Train | Epoch 36.6 | Loss: 24.87, Accuracy (%): 84.33, Silent labels (%): 0.0, Time (s): 13.41
+Train | Epoch 36.7 | Loss: 24.78, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 15.54
+Train | Epoch 36.8 | Loss: 24.86, Accuracy (%): 84.29, Silent labels (%): 0.0, Time (s): 17.68
+Train | Epoch 36.9 | Loss: 24.97, Accuracy (%): 84.14, Silent labels (%): 0.0, Time (s): 19.81
+Test | Epoch 37.0 | Loss: 29.45, Accuracy (%): 80.31, Learning rate: 0.003, Hidden layer 1 spike counts: 153.48, Output layer spike counts: 148.19, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 980.82, Output layer weights norm: 189.24, Time (s): 1.63
+Train | Epoch 37.0 | Loss: 25.12, Accuracy (%): 84.29, Silent labels (%): 0.0, Time (s): 0.5
+Train | Epoch 37.1 | Loss: 24.3, Accuracy (%): 84.51, Silent labels (%): 0.0, Time (s): 2.62
+Train | Epoch 37.2 | Loss: 24.57, Accuracy (%): 84.31, Silent labels (%): 0.0, Time (s): 4.74
+Train | Epoch 37.3 | Loss: 24.62, Accuracy (%): 84.41, Silent labels (%): 0.0, Time (s): 6.86
+Train | Epoch 37.4 | Loss: 24.9, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 8.99
+Train | Epoch 37.5 | Loss: 24.67, Accuracy (%): 83.95, Silent labels (%): 0.0, Time (s): 11.11
+Train | Epoch 37.6 | Loss: 24.83, Accuracy (%): 84.24, Silent labels (%): 0.0, Time (s): 13.23
+Train | Epoch 37.7 | Loss: 25.18, Accuracy (%): 84.33, Silent labels (%): 0.0, Time (s): 15.35
+Train | Epoch 37.8 | Loss: 24.77, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 17.47
+Train | Epoch 37.9 | Loss: 24.86, Accuracy (%): 84.76, Silent labels (%): 0.0, Time (s): 19.59
+Train | Epoch 38.0 | Loss: 24.76, Accuracy (%): 84.61, Silent labels (%): 0.0, Time (s): 21.71
+Test | Epoch 38.0 | Loss: 29.25, Accuracy (%): 80.31, Learning rate: 0.003, Hidden layer 1 spike counts: 153.25, Output layer spike counts: 150.54, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 993.21, Output layer weights norm: 191.55, Time (s): 1.63
+Train | Epoch 38.1 | Loss: 24.2, Accuracy (%): 85.04, Silent labels (%): 0.0, Time (s): 2.59
+Train | Epoch 38.2 | Loss: 24.32, Accuracy (%): 85.05, Silent labels (%): 0.0, Time (s): 4.73
+Train | Epoch 38.3 | Loss: 24.54, Accuracy (%): 84.63, Silent labels (%): 0.0, Time (s): 6.86
+Train | Epoch 38.4 | Loss: 24.4, Accuracy (%): 85.0, Silent labels (%): 0.0, Time (s): 9.01
+Train | Epoch 38.5 | Loss: 24.67, Accuracy (%): 84.21, Silent labels (%): 0.0, Time (s): 11.14
+Train | Epoch 38.6 | Loss: 25.05, Accuracy (%): 83.84, Silent labels (%): 0.0, Time (s): 13.28
+Train | Epoch 38.7 | Loss: 24.85, Accuracy (%): 84.08, Silent labels (%): 0.0, Time (s): 15.42
+Train | Epoch 38.8 | Loss: 25.07, Accuracy (%): 84.0, Silent labels (%): 0.0, Time (s): 17.55
+Train | Epoch 38.9 | Loss: 24.62, Accuracy (%): 84.64, Silent labels (%): 0.0, Time (s): 19.67
+Train | Epoch 39.0 | Loss: 24.82, Accuracy (%): 84.2, Silent labels (%): 0.0, Time (s): 21.8
+Test | Epoch 39.0 | Loss: 29.1, Accuracy (%): 80.31, Learning rate: 0.003, Hidden layer 1 spike counts: 153.37, Output layer spike counts: 151.07, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1005.24, Output layer weights norm: 193.96, Time (s): 1.64
+Train | Epoch 39.1 | Loss: 24.07, Accuracy (%): 84.79, Silent labels (%): 0.0, Time (s): 2.49
+Train | Epoch 39.2 | Loss: 24.92, Accuracy (%): 83.88, Silent labels (%): 0.0, Time (s): 4.63
+Train | Epoch 39.3 | Loss: 24.36, Accuracy (%): 84.82, Silent labels (%): 0.0, Time (s): 6.77
+Train | Epoch 39.4 | Loss: 24.63, Accuracy (%): 84.64, Silent labels (%): 0.0, Time (s): 8.91
+Train | Epoch 39.5 | Loss: 24.8, Accuracy (%): 84.48, Silent labels (%): 0.0, Time (s): 11.04
+Train | Epoch 39.6 | Loss: 24.62, Accuracy (%): 84.62, Silent labels (%): 0.0, Time (s): 13.17
+Train | Epoch 39.7 | Loss: 24.35, Accuracy (%): 84.85, Silent labels (%): 0.0, Time (s): 15.3
+Train | Epoch 39.8 | Loss: 24.53, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 17.44
+Train | Epoch 39.9 | Loss: 24.64, Accuracy (%): 84.69, Silent labels (%): 0.0, Time (s): 19.57
+Train | Epoch 40.0 | Loss: 24.61, Accuracy (%): 84.64, Silent labels (%): 0.0, Time (s): 21.7
+Test | Epoch 40.0 | Loss: 29.25, Accuracy (%): 80.34, Learning rate: 0.003, Hidden layer 1 spike counts: 153.44, Output layer spike counts: 151.6, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1017.15, Output layer weights norm: 196.33, Time (s): 1.64
+Train | Epoch 40.1 | Loss: 24.31, Accuracy (%): 85.24, Silent labels (%): 0.0, Time (s): 2.46
+Train | Epoch 40.2 | Loss: 24.03, Accuracy (%): 85.24, Silent labels (%): 0.0, Time (s): 4.59
+Train | Epoch 40.3 | Loss: 24.27, Accuracy (%): 84.92, Silent labels (%): 0.0, Time (s): 6.72
+Train | Epoch 40.4 | Loss: 24.53, Accuracy (%): 84.28, Silent labels (%): 0.0, Time (s): 8.85
+Train | Epoch 40.5 | Loss: 24.59, Accuracy (%): 84.52, Silent labels (%): 0.0, Time (s): 10.99
+Train | Epoch 40.6 | Loss: 24.95, Accuracy (%): 84.39, Silent labels (%): 0.0, Time (s): 13.13
+Train | Epoch 40.7 | Loss: 24.26, Accuracy (%): 85.01, Silent labels (%): 0.0, Time (s): 15.27
+Train | Epoch 40.8 | Loss: 24.4, Accuracy (%): 84.85, Silent labels (%): 0.0, Time (s): 17.4
+Train | Epoch 40.9 | Loss: 24.69, Accuracy (%): 84.96, Silent labels (%): 0.0, Time (s): 19.54
+Train | Epoch 41.0 | Loss: 24.6, Accuracy (%): 84.01, Silent labels (%): 0.0, Time (s): 21.67
+Test | Epoch 41.0 | Loss: 29.16, Accuracy (%): 80.08, Learning rate: 0.003, Hidden layer 1 spike counts: 152.36, Output layer spike counts: 150.71, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1028.82, Output layer weights norm: 198.67, Time (s): 1.65
+Train | Epoch 41.1 | Loss: 24.23, Accuracy (%): 84.92, Silent labels (%): 0.0, Time (s): 2.36
+Train | Epoch 41.2 | Loss: 23.98, Accuracy (%): 85.01, Silent labels (%): 0.0, Time (s): 4.49
+Train | Epoch 41.3 | Loss: 24.17, Accuracy (%): 84.96, Silent labels (%): 0.0, Time (s): 6.61
+Train | Epoch 41.4 | Loss: 24.6, Accuracy (%): 84.57, Silent labels (%): 0.0, Time (s): 8.73
+Train | Epoch 41.5 | Loss: 24.34, Accuracy (%): 84.68, Silent labels (%): 0.0, Time (s): 10.86
+Train | Epoch 41.6 | Loss: 24.68, Accuracy (%): 84.58, Silent labels (%): 0.0, Time (s): 12.98
+Train | Epoch 41.7 | Loss: 24.52, Accuracy (%): 84.6, Silent labels (%): 0.01, Time (s): 15.11
+Train | Epoch 41.8 | Loss: 24.32, Accuracy (%): 85.0, Silent labels (%): 0.0, Time (s): 17.24
+Train | Epoch 41.9 | Loss: 24.51, Accuracy (%): 84.78, Silent labels (%): 0.0, Time (s): 19.37
+Train | Epoch 42.0 | Loss: 24.62, Accuracy (%): 84.79, Silent labels (%): 0.0, Time (s): 21.5
+Test | Epoch 42.0 | Loss: 29.24, Accuracy (%): 80.18, Learning rate: 0.003, Hidden layer 1 spike counts: 149.65, Output layer spike counts: 150.96, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1040.34, Output layer weights norm: 201.09, Time (s): 1.62
+Train | Epoch 42.1 | Loss: 24.06, Accuracy (%): 84.75, Silent labels (%): 0.0, Time (s): 2.35
+Train | Epoch 42.2 | Loss: 24.14, Accuracy (%): 84.98, Silent labels (%): 0.0, Time (s): 4.49
+Train | Epoch 42.3 | Loss: 24.4, Accuracy (%): 84.75, Silent labels (%): 0.0, Time (s): 6.64
+Train | Epoch 42.4 | Loss: 24.3, Accuracy (%): 84.74, Silent labels (%): 0.0, Time (s): 8.79
+Train | Epoch 42.5 | Loss: 24.41, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 10.93
+Train | Epoch 42.6 | Loss: 24.53, Accuracy (%): 84.89, Silent labels (%): 0.0, Time (s): 13.07
+Train | Epoch 42.7 | Loss: 24.46, Accuracy (%): 84.61, Silent labels (%): 0.0, Time (s): 15.21
+Train | Epoch 42.8 | Loss: 24.5, Accuracy (%): 84.83, Silent labels (%): 0.0, Time (s): 17.35
+Train | Epoch 42.9 | Loss: 24.32, Accuracy (%): 84.78, Silent labels (%): 0.0, Time (s): 19.49
+Train | Epoch 43.0 | Loss: 24.21, Accuracy (%): 84.96, Silent labels (%): 0.0, Time (s): 21.62
+Test | Epoch 43.0 | Loss: 29.31, Accuracy (%): 80.08, Learning rate: 0.003, Hidden layer 1 spike counts: 147.77, Output layer spike counts: 150.51, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1051.83, Output layer weights norm: 203.73, Time (s): 1.64
+Train | Epoch 43.1 | Loss: 24.32, Accuracy (%): 85.02, Silent labels (%): 0.0, Time (s): 2.21
+Train | Epoch 43.2 | Loss: 24.29, Accuracy (%): 84.85, Silent labels (%): 0.0, Time (s): 4.34
+Train | Epoch 43.3 | Loss: 24.57, Accuracy (%): 84.28, Silent labels (%): 0.01, Time (s): 6.47
+Train | Epoch 43.4 | Loss: 24.37, Accuracy (%): 84.83, Silent labels (%): 0.0, Time (s): 8.6
+Train | Epoch 43.5 | Loss: 23.99, Accuracy (%): 85.42, Silent labels (%): 0.0, Time (s): 10.72
+Train | Epoch 43.6 | Loss: 24.18, Accuracy (%): 84.85, Silent labels (%): 0.0, Time (s): 12.86
+Train | Epoch 43.7 | Loss: 24.44, Accuracy (%): 84.74, Silent labels (%): 0.01, Time (s): 14.98
+Train | Epoch 43.8 | Loss: 24.44, Accuracy (%): 84.68, Silent labels (%): 0.02, Time (s): 17.11
+Train | Epoch 43.9 | Loss: 24.16, Accuracy (%): 85.31, Silent labels (%): 0.0, Time (s): 19.23
+Train | Epoch 44.0 | Loss: 24.53, Accuracy (%): 84.42, Silent labels (%): 0.0, Time (s): 21.35
+Test | Epoch 44.0 | Loss: 29.34, Accuracy (%): 80.23, Learning rate: 0.003, Hidden layer 1 spike counts: 146.88, Output layer spike counts: 150.25, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1063.05, Output layer weights norm: 206.11, Time (s): 1.63
+Train | Epoch 44.1 | Loss: 24.25, Accuracy (%): 84.72, Silent labels (%): 0.0, Time (s): 2.24
+Train | Epoch 44.2 | Loss: 24.22, Accuracy (%): 84.85, Silent labels (%): 0.0, Time (s): 4.38
+Train | Epoch 44.3 | Loss: 24.13, Accuracy (%): 85.26, Silent labels (%): 0.0, Time (s): 6.52
+Train | Epoch 44.4 | Loss: 24.3, Accuracy (%): 84.65, Silent labels (%): 0.0, Time (s): 8.66
+Train | Epoch 44.5 | Loss: 24.63, Accuracy (%): 84.42, Silent labels (%): 0.0, Time (s): 10.79
+Train | Epoch 44.6 | Loss: 24.33, Accuracy (%): 84.65, Silent labels (%): 0.0, Time (s): 12.93
+Train | Epoch 44.7 | Loss: 23.85, Accuracy (%): 85.56, Silent labels (%): 0.0, Time (s): 15.06
+Train | Epoch 44.8 | Loss: 23.98, Accuracy (%): 85.19, Silent labels (%): 0.0, Time (s): 17.2
+Train | Epoch 44.9 | Loss: 24.59, Accuracy (%): 84.26, Silent labels (%): 0.0, Time (s): 19.33
+Train | Epoch 45.0 | Loss: 24.24, Accuracy (%): 84.79, Silent labels (%): 0.0, Time (s): 21.47
+Test | Epoch 45.0 | Loss: 29.47, Accuracy (%): 80.2, Learning rate: 0.003, Hidden layer 1 spike counts: 146.41, Output layer spike counts: 150.63, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1074.03, Output layer weights norm: 208.39, Time (s): 1.64
+Train | Epoch 45.1 | Loss: 24.04, Accuracy (%): 85.16, Silent labels (%): 0.0, Time (s): 2.14
+Train | Epoch 45.2 | Loss: 23.82, Accuracy (%): 85.52, Silent labels (%): 0.0, Time (s): 4.25
+Train | Epoch 45.3 | Loss: 24.02, Accuracy (%): 85.16, Silent labels (%): 0.0, Time (s): 6.35
+Train | Epoch 45.4 | Loss: 24.7, Accuracy (%): 84.24, Silent labels (%): 0.01, Time (s): 8.45
+Train | Epoch 45.5 | Loss: 23.81, Accuracy (%): 85.46, Silent labels (%): 0.0, Time (s): 10.55
+Train | Epoch 45.6 | Loss: 24.51, Accuracy (%): 84.36, Silent labels (%): 0.0, Time (s): 12.66
+Train | Epoch 45.7 | Loss: 24.08, Accuracy (%): 84.96, Silent labels (%): 0.0, Time (s): 14.76
+Train | Epoch 45.8 | Loss: 24.5, Accuracy (%): 84.55, Silent labels (%): 0.01, Time (s): 16.87
+Train | Epoch 45.9 | Loss: 24.26, Accuracy (%): 85.08, Silent labels (%): 0.0, Time (s): 18.97
+Train | Epoch 46.0 | Loss: 24.31, Accuracy (%): 84.75, Silent labels (%): 0.0, Time (s): 21.07
+Test | Epoch 46.0 | Loss: 29.43, Accuracy (%): 80.25, Learning rate: 0.003, Hidden layer 1 spike counts: 145.63, Output layer spike counts: 152.14, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1084.95, Output layer weights norm: 210.72, Time (s): 1.62
+Train | Epoch 46.1 | Loss: 23.84, Accuracy (%): 85.42, Silent labels (%): 0.0, Time (s): 2.13
+Train | Epoch 46.2 | Loss: 23.69, Accuracy (%): 85.59, Silent labels (%): 0.0, Time (s): 4.27
+Train | Epoch 46.3 | Loss: 23.92, Accuracy (%): 85.28, Silent labels (%): 0.0, Time (s): 6.41
+Train | Epoch 46.4 | Loss: 24.06, Accuracy (%): 85.09, Silent labels (%): 0.0, Time (s): 8.54
+Train | Epoch 46.5 | Loss: 24.08, Accuracy (%): 84.69, Silent labels (%): 0.0, Time (s): 10.68
+Train | Epoch 46.6 | Loss: 24.2, Accuracy (%): 84.96, Silent labels (%): 0.0, Time (s): 12.81
+Train | Epoch 46.7 | Loss: 24.72, Accuracy (%): 83.97, Silent labels (%): 0.0, Time (s): 14.95
+Train | Epoch 46.8 | Loss: 24.2, Accuracy (%): 84.82, Silent labels (%): 0.0, Time (s): 17.08
+Train | Epoch 46.9 | Loss: 24.33, Accuracy (%): 84.52, Silent labels (%): 0.0, Time (s): 19.22
+Train | Epoch 47.0 | Loss: 24.1, Accuracy (%): 85.4, Silent labels (%): 0.0, Time (s): 21.35
+Test | Epoch 47.0 | Loss: 29.47, Accuracy (%): 80.21, Learning rate: 0.003, Hidden layer 1 spike counts: 145.31, Output layer spike counts: 150.36, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1095.6, Output layer weights norm: 212.92, Time (s): 1.65
+Train | Epoch 47.1 | Loss: 24.25, Accuracy (%): 84.69, Silent labels (%): 0.0, Time (s): 2.03
+Train | Epoch 47.2 | Loss: 23.74, Accuracy (%): 85.26, Silent labels (%): 0.0, Time (s): 4.15
+Train | Epoch 47.3 | Loss: 24.09, Accuracy (%): 84.8, Silent labels (%): 0.0, Time (s): 6.26
+Train | Epoch 47.4 | Loss: 24.05, Accuracy (%): 85.38, Silent labels (%): 0.01, Time (s): 8.38
+Train | Epoch 47.5 | Loss: 23.94, Accuracy (%): 85.12, Silent labels (%): 0.0, Time (s): 10.5
+Train | Epoch 47.6 | Loss: 23.86, Accuracy (%): 85.04, Silent labels (%): 0.0, Time (s): 12.62
+Train | Epoch 47.7 | Loss: 24.59, Accuracy (%): 84.2, Silent labels (%): 0.0, Time (s): 14.73
+Train | Epoch 47.8 | Loss: 24.29, Accuracy (%): 84.76, Silent labels (%): 0.0, Time (s): 16.84
+Train | Epoch 47.9 | Loss: 24.48, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 18.95
+Train | Epoch 48.0 | Loss: 23.97, Accuracy (%): 85.21, Silent labels (%): 0.0, Time (s): 21.07
+Test | Epoch 48.0 | Loss: 29.62, Accuracy (%): 79.96, Learning rate: 0.003, Hidden layer 1 spike counts: 143.96, Output layer spike counts: 153.04, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1106.06, Output layer weights norm: 215.27, Time (s): 1.63
+Train | Epoch 48.1 | Loss: 23.76, Accuracy (%): 85.32, Silent labels (%): 0.0, Time (s): 2.01
+Train | Epoch 48.2 | Loss: 24.04, Accuracy (%): 85.06, Silent labels (%): 0.0, Time (s): 4.12
+Train | Epoch 48.3 | Loss: 23.95, Accuracy (%): 85.0, Silent labels (%): 0.0, Time (s): 6.24
+Train | Epoch 48.4 | Loss: 23.78, Accuracy (%): 85.6, Silent labels (%): 0.0, Time (s): 8.36
+Train | Epoch 48.5 | Loss: 24.09, Accuracy (%): 84.8, Silent labels (%): 0.0, Time (s): 10.48
+Train | Epoch 48.6 | Loss: 24.02, Accuracy (%): 85.18, Silent labels (%): 0.0, Time (s): 12.6
+Train | Epoch 48.7 | Loss: 24.05, Accuracy (%): 85.14, Silent labels (%): 0.0, Time (s): 14.72
+Train | Epoch 48.8 | Loss: 24.3, Accuracy (%): 84.86, Silent labels (%): 0.0, Time (s): 16.83
+Train | Epoch 48.9 | Loss: 24.05, Accuracy (%): 85.17, Silent labels (%): 0.0, Time (s): 18.95
+Train | Epoch 49.0 | Loss: 23.91, Accuracy (%): 85.41, Silent labels (%): 0.0, Time (s): 21.07
+Test | Epoch 49.0 | Loss: 29.47, Accuracy (%): 80.34, Learning rate: 0.003, Hidden layer 1 spike counts: 139.47, Output layer spike counts: 149.51, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1116.65, Output layer weights norm: 217.62, Time (s): 1.64
+Train | Epoch 49.1 | Loss: 23.94, Accuracy (%): 84.91, Silent labels (%): 0.0, Time (s): 1.88
+Train | Epoch 49.2 | Loss: 23.79, Accuracy (%): 85.23, Silent labels (%): 0.0, Time (s): 3.99
+Train | Epoch 49.3 | Loss: 23.53, Accuracy (%): 85.56, Silent labels (%): 0.0, Time (s): 6.11
+Train | Epoch 49.4 | Loss: 23.77, Accuracy (%): 85.72, Silent labels (%): 0.0, Time (s): 8.23
+Train | Epoch 49.5 | Loss: 23.87, Accuracy (%): 85.08, Silent labels (%): 0.0, Time (s): 10.34
+Train | Epoch 49.6 | Loss: 23.69, Accuracy (%): 85.19, Silent labels (%): 0.01, Time (s): 12.46
+Train | Epoch 49.7 | Loss: 24.55, Accuracy (%): 84.46, Silent labels (%): 0.0, Time (s): 14.57
+Train | Epoch 49.8 | Loss: 23.95, Accuracy (%): 85.15, Silent labels (%): 0.0, Time (s): 16.68
+Train | Epoch 49.9 | Loss: 24.14, Accuracy (%): 84.79, Silent labels (%): 0.0, Time (s): 18.79
+Train | Epoch 50.0 | Loss: 24.58, Accuracy (%): 84.29, Silent labels (%): 0.0, Time (s): 20.91
+Test | Epoch 50.0 | Loss: 29.49, Accuracy (%): 80.05, Learning rate: 0.003, Hidden layer 1 spike counts: 140.33, Output layer spike counts: 150.58, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1126.93, Output layer weights norm: 220.02, Time (s): 1.62
+Train | Epoch 50.1 | Loss: 23.4, Accuracy (%): 86.04, Silent labels (%): 0.01, Time (s): 1.87
+Train | Epoch 50.2 | Loss: 23.59, Accuracy (%): 85.44, Silent labels (%): 0.0, Time (s): 4.0
+Train | Epoch 50.3 | Loss: 23.93, Accuracy (%): 85.16, Silent labels (%): 0.0, Time (s): 6.12
+Train | Epoch 50.4 | Loss: 23.82, Accuracy (%): 85.2, Silent labels (%): 0.0, Time (s): 8.24
+Train | Epoch 50.5 | Loss: 23.76, Accuracy (%): 85.17, Silent labels (%): 0.0, Time (s): 10.37
+Train | Epoch 50.6 | Loss: 23.99, Accuracy (%): 85.2, Silent labels (%): 0.01, Time (s): 12.49
+Train | Epoch 50.7 | Loss: 23.95, Accuracy (%): 85.1, Silent labels (%): 0.0, Time (s): 14.61
+Train | Epoch 50.8 | Loss: 23.98, Accuracy (%): 84.66, Silent labels (%): 0.0, Time (s): 16.74
+Train | Epoch 50.9 | Loss: 24.14, Accuracy (%): 84.86, Silent labels (%): 0.0, Time (s): 18.86
+Train | Epoch 51.0 | Loss: 24.09, Accuracy (%): 84.73, Silent labels (%): 0.0, Time (s): 20.98
+Test | Epoch 51.0 | Loss: 29.56, Accuracy (%): 79.82, Learning rate: 0.003, Hidden layer 1 spike counts: 140.32, Output layer spike counts: 151.62, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1137.08, Output layer weights norm: 222.08, Time (s): 1.64
+Train | Epoch 51.1 | Loss: 24.02, Accuracy (%): 84.83, Silent labels (%): 0.0, Time (s): 1.8
+Train | Epoch 51.2 | Loss: 23.83, Accuracy (%): 85.27, Silent labels (%): 0.0, Time (s): 3.92
+Train | Epoch 51.3 | Loss: 23.69, Accuracy (%): 85.2, Silent labels (%): 0.0, Time (s): 6.03
+Train | Epoch 51.4 | Loss: 23.65, Accuracy (%): 85.27, Silent labels (%): 0.0, Time (s): 8.15
+Train | Epoch 51.5 | Loss: 24.1, Accuracy (%): 84.9, Silent labels (%): 0.0, Time (s): 10.26
+Train | Epoch 51.6 | Loss: 23.97, Accuracy (%): 85.07, Silent labels (%): 0.0, Time (s): 12.37
+Train | Epoch 51.7 | Loss: 23.56, Accuracy (%): 85.69, Silent labels (%): 0.0, Time (s): 14.49
+Train | Epoch 51.8 | Loss: 23.58, Accuracy (%): 85.79, Silent labels (%): 0.0, Time (s): 16.6
+Train | Epoch 51.9 | Loss: 23.91, Accuracy (%): 85.22, Silent labels (%): 0.01, Time (s): 18.71
+Train | Epoch 52.0 | Loss: 24.39, Accuracy (%): 84.53, Silent labels (%): 0.0, Time (s): 20.82
+Test | Epoch 52.0 | Loss: 29.68, Accuracy (%): 79.94, Learning rate: 0.003, Hidden layer 1 spike counts: 137.38, Output layer spike counts: 149.49, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1147.38, Output layer weights norm: 224.34, Time (s): 1.63
+Train | Epoch 52.1 | Loss: 23.51, Accuracy (%): 85.43, Silent labels (%): 0.0, Time (s): 1.8
+Train | Epoch 52.2 | Loss: 23.95, Accuracy (%): 85.0, Silent labels (%): 0.0, Time (s): 3.92
+Train | Epoch 52.3 | Loss: 23.17, Accuracy (%): 85.75, Silent labels (%): 0.0, Time (s): 6.04
+Train | Epoch 52.4 | Loss: 23.65, Accuracy (%): 85.67, Silent labels (%): 0.02, Time (s): 8.16
+Train | Epoch 52.5 | Loss: 23.84, Accuracy (%): 85.35, Silent labels (%): 0.01, Time (s): 10.28
+Train | Epoch 52.6 | Loss: 23.74, Accuracy (%): 85.38, Silent labels (%): 0.0, Time (s): 12.41
+Train | Epoch 52.7 | Loss: 23.8, Accuracy (%): 85.33, Silent labels (%): 0.0, Time (s): 14.53
+Train | Epoch 52.8 | Loss: 23.65, Accuracy (%): 85.32, Silent labels (%): 0.0, Time (s): 16.65
+Train | Epoch 52.9 | Loss: 23.82, Accuracy (%): 85.17, Silent labels (%): 0.0, Time (s): 18.78
+Train | Epoch 53.0 | Loss: 24.01, Accuracy (%): 84.86, Silent labels (%): 0.0, Time (s): 20.9
+Test | Epoch 53.0 | Loss: 29.83, Accuracy (%): 79.81, Learning rate: 0.003, Hidden layer 1 spike counts: 137.28, Output layer spike counts: 151.17, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1157.51, Output layer weights norm: 226.56, Time (s): 1.64
+Train | Epoch 53.1 | Loss: 23.82, Accuracy (%): 85.14, Silent labels (%): 0.0, Time (s): 1.68
+Train | Epoch 53.2 | Loss: 23.86, Accuracy (%): 85.11, Silent labels (%): 0.0, Time (s): 3.79
+Train | Epoch 53.3 | Loss: 23.25, Accuracy (%): 86.03, Silent labels (%): 0.0, Time (s): 5.89
+Train | Epoch 53.4 | Loss: 23.95, Accuracy (%): 85.16, Silent labels (%): 0.0, Time (s): 7.98
+Train | Epoch 53.5 | Loss: 23.86, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 10.08
+Train | Epoch 53.6 | Loss: 23.53, Accuracy (%): 85.68, Silent labels (%): 0.01, Time (s): 12.18
+Train | Epoch 53.7 | Loss: 24.05, Accuracy (%): 84.76, Silent labels (%): 0.0, Time (s): 14.28
+Train | Epoch 53.8 | Loss: 23.83, Accuracy (%): 85.4, Silent labels (%): 0.0, Time (s): 16.38
+Train | Epoch 53.9 | Loss: 23.52, Accuracy (%): 85.29, Silent labels (%): 0.0, Time (s): 18.48
+Train | Epoch 54.0 | Loss: 23.89, Accuracy (%): 85.09, Silent labels (%): 0.0, Time (s): 20.59
+Test | Epoch 54.0 | Loss: 29.59, Accuracy (%): 80.1, Learning rate: 0.003, Hidden layer 1 spike counts: 135.15, Output layer spike counts: 149.46, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1167.44, Output layer weights norm: 228.66, Time (s): 1.63
+Train | Epoch 54.1 | Loss: 23.38, Accuracy (%): 85.51, Silent labels (%): 0.01, Time (s): 1.64
+Train | Epoch 54.2 | Loss: 23.55, Accuracy (%): 85.2, Silent labels (%): 0.0, Time (s): 3.76
+Train | Epoch 54.3 | Loss: 23.29, Accuracy (%): 85.58, Silent labels (%): 0.0, Time (s): 5.88
+Train | Epoch 54.4 | Loss: 23.97, Accuracy (%): 84.79, Silent labels (%): 0.0, Time (s): 8.0
+Train | Epoch 54.5 | Loss: 23.23, Accuracy (%): 86.06, Silent labels (%): 0.0, Time (s): 10.12
+Train | Epoch 54.6 | Loss: 23.77, Accuracy (%): 85.54, Silent labels (%): 0.0, Time (s): 12.24
+Train | Epoch 54.7 | Loss: 24.04, Accuracy (%): 84.84, Silent labels (%): 0.0, Time (s): 14.37
+Train | Epoch 54.8 | Loss: 23.6, Accuracy (%): 85.46, Silent labels (%): 0.0, Time (s): 16.49
+Train | Epoch 54.9 | Loss: 23.74, Accuracy (%): 85.22, Silent labels (%): 0.0, Time (s): 18.61
+Train | Epoch 55.0 | Loss: 23.73, Accuracy (%): 85.31, Silent labels (%): 0.0, Time (s): 20.73
+Test | Epoch 55.0 | Loss: 29.65, Accuracy (%): 79.86, Learning rate: 0.003, Hidden layer 1 spike counts: 134.21, Output layer spike counts: 149.69, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1177.23, Output layer weights norm: 230.75, Time (s): 1.64
+Train | Epoch 55.1 | Loss: 23.55, Accuracy (%): 85.89, Silent labels (%): 0.0, Time (s): 1.53
+Train | Epoch 55.2 | Loss: 23.57, Accuracy (%): 85.39, Silent labels (%): 0.0, Time (s): 3.62
+Train | Epoch 55.3 | Loss: 23.07, Accuracy (%): 85.91, Silent labels (%): 0.0, Time (s): 5.7
+Train | Epoch 55.4 | Loss: 23.56, Accuracy (%): 85.46, Silent labels (%): 0.0, Time (s): 7.79
+Train | Epoch 55.5 | Loss: 23.45, Accuracy (%): 85.57, Silent labels (%): 0.0, Time (s): 9.89
+Train | Epoch 55.6 | Loss: 23.71, Accuracy (%): 85.54, Silent labels (%): 0.0, Time (s): 11.98
+Train | Epoch 55.7 | Loss: 23.94, Accuracy (%): 85.23, Silent labels (%): 0.0, Time (s): 14.07
+Train | Epoch 55.8 | Loss: 23.73, Accuracy (%): 85.05, Silent labels (%): 0.0, Time (s): 16.16
+Train | Epoch 55.9 | Loss: 23.87, Accuracy (%): 85.03, Silent labels (%): 0.0, Time (s): 18.26
+Train | Epoch 56.0 | Loss: 23.54, Accuracy (%): 85.94, Silent labels (%): 0.0, Time (s): 20.34
+Test | Epoch 56.0 | Loss: 29.9, Accuracy (%): 80.01, Learning rate: 0.003, Hidden layer 1 spike counts: 132.81, Output layer spike counts: 148.91, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1186.97, Output layer weights norm: 232.92, Time (s): 1.62
+Train | Epoch 56.1 | Loss: 23.58, Accuracy (%): 85.04, Silent labels (%): 0.0, Time (s): 1.56
+Train | Epoch 56.2 | Loss: 23.29, Accuracy (%): 85.74, Silent labels (%): 0.01, Time (s): 3.65
+Train | Epoch 56.2 | Loss: 23.62, Accuracy (%): 85.32, Silent labels (%): 0.0, Time (s): 5.75
+Train | Epoch 56.3 | Loss: 23.96, Accuracy (%): 84.95, Silent labels (%): 0.01, Time (s): 7.88
+Train | Epoch 56.4 | Loss: 23.49, Accuracy (%): 85.49, Silent labels (%): 0.0, Time (s): 9.98
+Train | Epoch 56.5 | Loss: 23.52, Accuracy (%): 85.33, Silent labels (%): 0.0, Time (s): 12.1
+Train | Epoch 56.6 | Loss: 23.65, Accuracy (%): 85.46, Silent labels (%): 0.0, Time (s): 14.21
+Train | Epoch 56.7 | Loss: 23.8, Accuracy (%): 84.99, Silent labels (%): 0.0, Time (s): 16.32
+Train | Epoch 56.8 | Loss: 23.4, Accuracy (%): 85.9, Silent labels (%): 0.0, Time (s): 18.43
+Train | Epoch 56.9 | Loss: 24.07, Accuracy (%): 85.02, Silent labels (%): 0.01, Time (s): 20.54
+Test | Epoch 57.0 | Loss: 29.73, Accuracy (%): 79.82, Learning rate: 0.003, Hidden layer 1 spike counts: 133.64, Output layer spike counts: 151.47, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1196.51, Output layer weights norm: 235.0, Time (s): 1.64
+Train | Epoch 57.0 | Loss: 23.45, Accuracy (%): 85.67, Silent labels (%): 0.0, Time (s): 1.47
+Train | Epoch 57.1 | Loss: 23.2, Accuracy (%): 85.82, Silent labels (%): 0.0, Time (s): 3.56
+Train | Epoch 57.2 | Loss: 23.27, Accuracy (%): 85.87, Silent labels (%): 0.0, Time (s): 5.65
+Train | Epoch 57.3 | Loss: 23.94, Accuracy (%): 84.59, Silent labels (%): 0.0, Time (s): 7.74
+Train | Epoch 57.4 | Loss: 23.66, Accuracy (%): 85.31, Silent labels (%): 0.0, Time (s): 9.84
+Train | Epoch 57.5 | Loss: 23.16, Accuracy (%): 85.76, Silent labels (%): 0.01, Time (s): 11.93
+Train | Epoch 57.6 | Loss: 23.42, Accuracy (%): 85.51, Silent labels (%): 0.0, Time (s): 14.02
+Train | Epoch 57.7 | Loss: 23.6, Accuracy (%): 85.41, Silent labels (%): 0.0, Time (s): 16.11
+Train | Epoch 57.8 | Loss: 23.66, Accuracy (%): 85.3, Silent labels (%): 0.01, Time (s): 18.22
+Train | Epoch 57.9 | Loss: 24.07, Accuracy (%): 85.03, Silent labels (%): 0.0, Time (s): 20.31
+Test | Epoch 58.0 | Loss: 29.83, Accuracy (%): 79.73, Learning rate: 0.003, Hidden layer 1 spike counts: 132.34, Output layer spike counts: 150.2, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1205.9, Output layer weights norm: 236.99, Time (s): 1.62
+Train | Epoch 58.0 | Loss: 23.39, Accuracy (%): 85.86, Silent labels (%): 0.01, Time (s): 1.43
+Train | Epoch 58.1 | Loss: 23.37, Accuracy (%): 85.49, Silent labels (%): 0.01, Time (s): 3.53
+Train | Epoch 58.2 | Loss: 23.39, Accuracy (%): 85.15, Silent labels (%): 0.0, Time (s): 5.62
+Train | Epoch 58.3 | Loss: 23.29, Accuracy (%): 86.09, Silent labels (%): 0.0, Time (s): 7.71
+Train | Epoch 58.4 | Loss: 23.68, Accuracy (%): 85.33, Silent labels (%): 0.01, Time (s): 9.81
+Train | Epoch 58.5 | Loss: 23.42, Accuracy (%): 85.75, Silent labels (%): 0.0, Time (s): 11.9
+Train | Epoch 58.6 | Loss: 22.96, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 13.98
+Train | Epoch 58.7 | Loss: 23.48, Accuracy (%): 85.72, Silent labels (%): 0.01, Time (s): 16.08
+Train | Epoch 58.8 | Loss: 23.92, Accuracy (%): 85.21, Silent labels (%): 0.01, Time (s): 18.17
+Train | Epoch 58.9 | Loss: 23.48, Accuracy (%): 85.29, Silent labels (%): 0.0, Time (s): 20.25
+Test | Epoch 59.0 | Loss: 29.89, Accuracy (%): 79.82, Learning rate: 0.003, Hidden layer 1 spike counts: 131.35, Output layer spike counts: 148.98, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1215.3, Output layer weights norm: 239.11, Time (s): 1.62
+Train | Epoch 59.0 | Loss: 23.23, Accuracy (%): 85.63, Silent labels (%): 0.0, Time (s): 1.35
+Train | Epoch 59.1 | Loss: 23.09, Accuracy (%): 85.57, Silent labels (%): 0.0, Time (s): 3.46
+Train | Epoch 59.2 | Loss: 23.38, Accuracy (%): 85.7, Silent labels (%): 0.01, Time (s): 5.56
+Train | Epoch 59.3 | Loss: 23.21, Accuracy (%): 85.88, Silent labels (%): 0.0, Time (s): 7.67
+Train | Epoch 59.4 | Loss: 23.15, Accuracy (%): 86.05, Silent labels (%): 0.0, Time (s): 9.77
+Train | Epoch 59.5 | Loss: 23.66, Accuracy (%): 85.43, Silent labels (%): 0.0, Time (s): 11.88
+Train | Epoch 59.6 | Loss: 23.83, Accuracy (%): 85.05, Silent labels (%): 0.0, Time (s): 13.99
+Train | Epoch 59.7 | Loss: 23.52, Accuracy (%): 85.48, Silent labels (%): 0.0, Time (s): 16.09
+Train | Epoch 59.8 | Loss: 23.69, Accuracy (%): 85.58, Silent labels (%): 0.02, Time (s): 18.2
+Train | Epoch 59.9 | Loss: 23.55, Accuracy (%): 85.17, Silent labels (%): 0.0, Time (s): 20.3
+Test | Epoch 60.0 | Loss: 30.0, Accuracy (%): 79.72, Learning rate: 0.003, Hidden layer 1 spike counts: 130.76, Output layer spike counts: 151.54, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1224.63, Output layer weights norm: 241.17, Time (s): 1.63
+Train | Epoch 60.0 | Loss: 23.99, Accuracy (%): 84.73, Silent labels (%): 0.02, Time (s): 1.33
+Train | Epoch 60.1 | Loss: 23.32, Accuracy (%): 85.91, Silent labels (%): 0.02, Time (s): 3.44
+Train | Epoch 60.2 | Loss: 23.28, Accuracy (%): 85.66, Silent labels (%): 0.0, Time (s): 5.55
+Train | Epoch 60.3 | Loss: 23.04, Accuracy (%): 85.94, Silent labels (%): 0.0, Time (s): 7.67
+Train | Epoch 60.4 | Loss: 23.42, Accuracy (%): 85.48, Silent labels (%): 0.0, Time (s): 9.78
+Train | Epoch 60.5 | Loss: 23.33, Accuracy (%): 85.67, Silent labels (%): 0.0, Time (s): 11.89
+Train | Epoch 60.6 | Loss: 23.22, Accuracy (%): 85.75, Silent labels (%): 0.0, Time (s): 14.01
+Train | Epoch 60.7 | Loss: 23.7, Accuracy (%): 85.57, Silent labels (%): 0.0, Time (s): 16.13
+Train | Epoch 60.8 | Loss: 23.57, Accuracy (%): 85.51, Silent labels (%): 0.02, Time (s): 18.25
+Train | Epoch 60.9 | Loss: 23.6, Accuracy (%): 85.39, Silent labels (%): 0.01, Time (s): 20.36
+Test | Epoch 61.0 | Loss: 30.04, Accuracy (%): 79.65, Learning rate: 0.003, Hidden layer 1 spike counts: 127.57, Output layer spike counts: 149.32, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1233.97, Output layer weights norm: 243.06, Time (s): 1.65
+Train | Epoch 61.0 | Loss: 23.45, Accuracy (%): 85.34, Silent labels (%): 0.0, Time (s): 1.19
+Train | Epoch 61.1 | Loss: 22.92, Accuracy (%): 86.07, Silent labels (%): 0.01, Time (s): 3.28
+Train | Epoch 61.2 | Loss: 23.45, Accuracy (%): 85.3, Silent labels (%): 0.0, Time (s): 5.37
+Train | Epoch 61.3 | Loss: 23.28, Accuracy (%): 85.59, Silent labels (%): 0.01, Time (s): 7.46
+Train | Epoch 61.4 | Loss: 22.86, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 9.56
+Train | Epoch 61.5 | Loss: 23.54, Accuracy (%): 85.31, Silent labels (%): 0.0, Time (s): 11.65
+Train | Epoch 61.6 | Loss: 23.72, Accuracy (%): 85.42, Silent labels (%): 0.0, Time (s): 13.74
+Train | Epoch 61.7 | Loss: 23.0, Accuracy (%): 85.91, Silent labels (%): 0.0, Time (s): 15.83
+Train | Epoch 61.8 | Loss: 23.63, Accuracy (%): 85.34, Silent labels (%): 0.0, Time (s): 17.92
+Train | Epoch 61.9 | Loss: 23.7, Accuracy (%): 85.37, Silent labels (%): 0.0, Time (s): 20.01
+Test | Epoch 62.0 | Loss: 30.02, Accuracy (%): 79.51, Learning rate: 0.003, Hidden layer 1 spike counts: 130.6, Output layer spike counts: 151.49, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1243.04, Output layer weights norm: 245.08, Time (s): 1.63
+Train | Epoch 62.0 | Loss: 23.3, Accuracy (%): 85.58, Silent labels (%): 0.0, Time (s): 1.15
+Train | Epoch 62.1 | Loss: 22.79, Accuracy (%): 85.92, Silent labels (%): 0.0, Time (s): 3.23
+Train | Epoch 62.2 | Loss: 22.76, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 5.33
+Train | Epoch 62.3 | Loss: 22.83, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 7.43
+Train | Epoch 62.4 | Loss: 23.59, Accuracy (%): 85.44, Silent labels (%): 0.0, Time (s): 9.53
+Train | Epoch 62.5 | Loss: 23.44, Accuracy (%): 85.67, Silent labels (%): 0.0, Time (s): 11.62
+Train | Epoch 62.6 | Loss: 23.52, Accuracy (%): 85.47, Silent labels (%): 0.01, Time (s): 13.72
+Train | Epoch 62.7 | Loss: 23.77, Accuracy (%): 85.12, Silent labels (%): 0.02, Time (s): 15.82
+Train | Epoch 62.8 | Loss: 23.73, Accuracy (%): 85.16, Silent labels (%): 0.0, Time (s): 17.92
+Train | Epoch 62.9 | Loss: 23.49, Accuracy (%): 85.5, Silent labels (%): 0.01, Time (s): 20.01
+Test | Epoch 63.0 | Loss: 29.92, Accuracy (%): 79.68, Learning rate: 0.003, Hidden layer 1 spike counts: 128.14, Output layer spike counts: 150.82, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1252.07, Output layer weights norm: 247.15, Time (s): 1.63
+Train | Epoch 63.0 | Loss: 22.86, Accuracy (%): 86.14, Silent labels (%): 0.0, Time (s): 1.11
+Train | Epoch 63.1 | Loss: 23.07, Accuracy (%): 85.77, Silent labels (%): 0.01, Time (s): 3.19
+Train | Epoch 63.2 | Loss: 23.21, Accuracy (%): 86.0, Silent labels (%): 0.0, Time (s): 5.27
+Train | Epoch 63.3 | Loss: 22.84, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 7.34
+Train | Epoch 63.4 | Loss: 23.19, Accuracy (%): 85.89, Silent labels (%): 0.0, Time (s): 9.41
+Train | Epoch 63.5 | Loss: 23.5, Accuracy (%): 85.34, Silent labels (%): 0.0, Time (s): 11.48
+Train | Epoch 63.6 | Loss: 23.43, Accuracy (%): 85.98, Silent labels (%): 0.0, Time (s): 13.56
+Train | Epoch 63.7 | Loss: 23.59, Accuracy (%): 85.61, Silent labels (%): 0.01, Time (s): 15.63
+Train | Epoch 63.8 | Loss: 23.45, Accuracy (%): 85.29, Silent labels (%): 0.0, Time (s): 17.7
+Train | Epoch 63.9 | Loss: 23.31, Accuracy (%): 85.65, Silent labels (%): 0.0, Time (s): 19.78
+Test | Epoch 64.0 | Loss: 30.29, Accuracy (%): 79.46, Learning rate: 0.003, Hidden layer 1 spike counts: 128.62, Output layer spike counts: 153.58, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1261.22, Output layer weights norm: 249.23, Time (s): 1.62
+Train | Epoch 64.0 | Loss: 23.49, Accuracy (%): 85.5, Silent labels (%): 0.0, Time (s): 1.06
+Train | Epoch 64.1 | Loss: 23.1, Accuracy (%): 85.8, Silent labels (%): 0.0, Time (s): 3.17
+Train | Epoch 64.2 | Loss: 23.08, Accuracy (%): 85.74, Silent labels (%): 0.0, Time (s): 5.26
+Train | Epoch 64.3 | Loss: 23.04, Accuracy (%): 85.83, Silent labels (%): 0.0, Time (s): 7.36
+Train | Epoch 64.4 | Loss: 22.99, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 9.45
+Train | Epoch 64.5 | Loss: 23.43, Accuracy (%): 85.4, Silent labels (%): 0.0, Time (s): 11.54
+Train | Epoch 64.6 | Loss: 23.46, Accuracy (%): 85.4, Silent labels (%): 0.0, Time (s): 13.63
+Train | Epoch 64.7 | Loss: 23.2, Accuracy (%): 85.67, Silent labels (%): 0.0, Time (s): 15.72
+Train | Epoch 64.8 | Loss: 23.51, Accuracy (%): 85.66, Silent labels (%): 0.0, Time (s): 17.81
+Train | Epoch 64.9 | Loss: 23.64, Accuracy (%): 85.18, Silent labels (%): 0.01, Time (s): 19.9
+Test | Epoch 65.0 | Loss: 30.13, Accuracy (%): 79.5, Learning rate: 0.003, Hidden layer 1 spike counts: 125.07, Output layer spike counts: 151.08, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1269.95, Output layer weights norm: 251.03, Time (s): 1.63
+Train | Epoch 65.0 | Loss: 23.21, Accuracy (%): 85.73, Silent labels (%): 0.01, Time (s): 1.0
+Train | Epoch 65.1 | Loss: 23.08, Accuracy (%): 86.12, Silent labels (%): 0.0, Time (s): 3.08
+Train | Epoch 65.2 | Loss: 23.41, Accuracy (%): 85.17, Silent labels (%): 0.0, Time (s): 5.17
+Train | Epoch 65.3 | Loss: 22.92, Accuracy (%): 85.86, Silent labels (%): 0.01, Time (s): 7.25
+Train | Epoch 65.4 | Loss: 22.92, Accuracy (%): 86.0, Silent labels (%): 0.0, Time (s): 9.33
+Train | Epoch 65.5 | Loss: 23.44, Accuracy (%): 85.31, Silent labels (%): 0.01, Time (s): 11.41
+Train | Epoch 65.6 | Loss: 23.33, Accuracy (%): 85.72, Silent labels (%): 0.0, Time (s): 13.49
+Train | Epoch 65.7 | Loss: 23.02, Accuracy (%): 86.01, Silent labels (%): 0.0, Time (s): 15.57
+Train | Epoch 65.8 | Loss: 23.32, Accuracy (%): 85.5, Silent labels (%): 0.0, Time (s): 17.66
+Train | Epoch 65.9 | Loss: 23.49, Accuracy (%): 85.21, Silent labels (%): 0.0, Time (s): 19.76
+Test | Epoch 66.0 | Loss: 30.13, Accuracy (%): 79.55, Learning rate: 0.003, Hidden layer 1 spike counts: 124.9, Output layer spike counts: 150.4, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1278.74, Output layer weights norm: 253.15, Time (s): 1.63
+Train | Epoch 66.0 | Loss: 23.3, Accuracy (%): 85.58, Silent labels (%): 0.0, Time (s): 1.01
+Train | Epoch 66.1 | Loss: 22.81, Accuracy (%): 85.99, Silent labels (%): 0.01, Time (s): 3.09
+Train | Epoch 66.2 | Loss: 22.96, Accuracy (%): 85.98, Silent labels (%): 0.01, Time (s): 5.17
+Train | Epoch 66.3 | Loss: 22.61, Accuracy (%): 86.4, Silent labels (%): 0.0, Time (s): 7.24
+Train | Epoch 66.4 | Loss: 23.38, Accuracy (%): 85.81, Silent labels (%): 0.0, Time (s): 9.32
+Train | Epoch 66.5 | Loss: 23.11, Accuracy (%): 85.79, Silent labels (%): 0.0, Time (s): 11.4
+Train | Epoch 66.6 | Loss: 23.3, Accuracy (%): 85.35, Silent labels (%): 0.0, Time (s): 13.48
+Train | Epoch 66.7 | Loss: 23.12, Accuracy (%): 86.27, Silent labels (%): 0.0, Time (s): 15.56
+Train | Epoch 66.8 | Loss: 23.25, Accuracy (%): 85.33, Silent labels (%): 0.0, Time (s): 17.64
+Train | Epoch 66.9 | Loss: 23.18, Accuracy (%): 85.58, Silent labels (%): 0.0, Time (s): 19.72
+Test | Epoch 67.0 | Loss: 30.29, Accuracy (%): 79.34, Learning rate: 0.003, Hidden layer 1 spike counts: 124.06, Output layer spike counts: 150.38, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1287.35, Output layer weights norm: 255.23, Time (s): 1.62
+Train | Epoch 67.0 | Loss: 23.46, Accuracy (%): 85.37, Silent labels (%): 0.0, Time (s): 0.89
+Train | Epoch 67.1 | Loss: 22.6, Accuracy (%): 86.25, Silent labels (%): 0.0, Time (s): 2.98
+Train | Epoch 67.2 | Loss: 22.92, Accuracy (%): 85.93, Silent labels (%): 0.0, Time (s): 5.08
+Train | Epoch 67.3 | Loss: 23.09, Accuracy (%): 85.78, Silent labels (%): 0.01, Time (s): 7.18
+Train | Epoch 67.4 | Loss: 23.03, Accuracy (%): 85.94, Silent labels (%): 0.0, Time (s): 9.27
+Train | Epoch 67.5 | Loss: 23.13, Accuracy (%): 86.09, Silent labels (%): 0.0, Time (s): 11.37
+Train | Epoch 67.6 | Loss: 22.98, Accuracy (%): 85.79, Silent labels (%): 0.0, Time (s): 13.46
+Train | Epoch 67.7 | Loss: 23.34, Accuracy (%): 85.44, Silent labels (%): 0.0, Time (s): 15.55
+Train | Epoch 67.8 | Loss: 23.76, Accuracy (%): 85.42, Silent labels (%): 0.01, Time (s): 17.64
+Train | Epoch 67.9 | Loss: 23.61, Accuracy (%): 85.46, Silent labels (%): 0.0, Time (s): 19.73
+Test | Epoch 68.0 | Loss: 30.4, Accuracy (%): 79.35, Learning rate: 0.003, Hidden layer 1 spike counts: 123.07, Output layer spike counts: 151.45, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1296.08, Output layer weights norm: 257.27, Time (s): 1.64
+Train | Epoch 68.0 | Loss: 22.79, Accuracy (%): 86.37, Silent labels (%): 0.01, Time (s): 0.84
+Train | Epoch 68.1 | Loss: 23.19, Accuracy (%): 85.53, Silent labels (%): 0.0, Time (s): 2.91
+Train | Epoch 68.2 | Loss: 22.81, Accuracy (%): 85.9, Silent labels (%): 0.0, Time (s): 5.0
+Train | Epoch 68.3 | Loss: 22.87, Accuracy (%): 86.06, Silent labels (%): 0.0, Time (s): 7.08
+Train | Epoch 68.4 | Loss: 23.28, Accuracy (%): 85.67, Silent labels (%): 0.01, Time (s): 9.17
+Train | Epoch 68.5 | Loss: 23.23, Accuracy (%): 85.69, Silent labels (%): 0.0, Time (s): 11.26
+Train | Epoch 68.6 | Loss: 23.42, Accuracy (%): 85.49, Silent labels (%): 0.0, Time (s): 13.34
+Train | Epoch 68.7 | Loss: 23.06, Accuracy (%): 86.12, Silent labels (%): 0.0, Time (s): 15.43
+Train | Epoch 68.8 | Loss: 23.42, Accuracy (%): 85.76, Silent labels (%): 0.0, Time (s): 17.51
+Train | Epoch 68.9 | Loss: 22.85, Accuracy (%): 86.16, Silent labels (%): 0.0, Time (s): 19.59
+Test | Epoch 69.0 | Loss: 30.23, Accuracy (%): 79.3, Learning rate: 0.003, Hidden layer 1 spike counts: 122.49, Output layer spike counts: 151.29, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1304.84, Output layer weights norm: 259.24, Time (s): 1.62
+Train | Epoch 69.0 | Loss: 22.77, Accuracy (%): 86.38, Silent labels (%): 0.0, Time (s): 0.73
+Train | Epoch 69.1 | Loss: 22.55, Accuracy (%): 86.24, Silent labels (%): 0.01, Time (s): 2.81
+Train | Epoch 69.2 | Loss: 22.72, Accuracy (%): 86.19, Silent labels (%): 0.0, Time (s): 4.89
+Train | Epoch 69.3 | Loss: 23.1, Accuracy (%): 85.77, Silent labels (%): 0.0, Time (s): 6.96
+Train | Epoch 69.4 | Loss: 23.23, Accuracy (%): 85.42, Silent labels (%): 0.02, Time (s): 9.03
+Train | Epoch 69.5 | Loss: 22.87, Accuracy (%): 86.18, Silent labels (%): 0.0, Time (s): 11.1
+Train | Epoch 69.6 | Loss: 23.36, Accuracy (%): 85.33, Silent labels (%): 0.0, Time (s): 13.18
+Train | Epoch 69.7 | Loss: 23.03, Accuracy (%): 86.11, Silent labels (%): 0.0, Time (s): 15.25
+Train | Epoch 69.8 | Loss: 23.13, Accuracy (%): 85.92, Silent labels (%): 0.0, Time (s): 17.32
+Train | Epoch 69.9 | Loss: 23.63, Accuracy (%): 85.12, Silent labels (%): 0.0, Time (s): 19.39
+Test | Epoch 70.0 | Loss: 30.2, Accuracy (%): 79.41, Learning rate: 0.003, Hidden layer 1 spike counts: 121.33, Output layer spike counts: 150.35, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1313.47, Output layer weights norm: 260.97, Time (s): 1.61
+Train | Epoch 70.0 | Loss: 23.31, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 0.74
+Train | Epoch 70.1 | Loss: 22.73, Accuracy (%): 86.2, Silent labels (%): 0.0, Time (s): 2.83
+Train | Epoch 70.2 | Loss: 22.77, Accuracy (%): 86.02, Silent labels (%): 0.0, Time (s): 4.91
+Train | Epoch 70.3 | Loss: 23.34, Accuracy (%): 85.43, Silent labels (%): 0.0, Time (s): 7.0
+Train | Epoch 70.4 | Loss: 22.84, Accuracy (%): 86.19, Silent labels (%): 0.0, Time (s): 9.09
+Train | Epoch 70.5 | Loss: 22.78, Accuracy (%): 86.02, Silent labels (%): 0.01, Time (s): 11.17
+Train | Epoch 70.6 | Loss: 23.35, Accuracy (%): 86.01, Silent labels (%): 0.0, Time (s): 13.26
+Train | Epoch 70.7 | Loss: 23.32, Accuracy (%): 85.53, Silent labels (%): 0.01, Time (s): 15.35
+Train | Epoch 70.8 | Loss: 23.32, Accuracy (%): 85.43, Silent labels (%): 0.0, Time (s): 17.43
+Train | Epoch 70.9 | Loss: 22.92, Accuracy (%): 86.56, Silent labels (%): 0.0, Time (s): 19.51
+Test | Epoch 71.0 | Loss: 30.48, Accuracy (%): 79.27, Learning rate: 0.003, Hidden layer 1 spike counts: 119.85, Output layer spike counts: 149.81, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1321.88, Output layer weights norm: 262.96, Time (s): 1.64
+Train | Epoch 71.0 | Loss: 23.14, Accuracy (%): 86.01, Silent labels (%): 0.0, Time (s): 0.66
+Train | Epoch 71.1 | Loss: 22.83, Accuracy (%): 85.91, Silent labels (%): 0.0, Time (s): 2.74
+Train | Epoch 71.2 | Loss: 22.83, Accuracy (%): 85.89, Silent labels (%): 0.01, Time (s): 4.81
+Train | Epoch 71.3 | Loss: 23.24, Accuracy (%): 85.65, Silent labels (%): 0.0, Time (s): 6.88
+Train | Epoch 71.4 | Loss: 22.96, Accuracy (%): 86.27, Silent labels (%): 0.0, Time (s): 8.94
+Train | Epoch 71.5 | Loss: 23.24, Accuracy (%): 86.26, Silent labels (%): 0.0, Time (s): 11.0
+Train | Epoch 71.6 | Loss: 22.98, Accuracy (%): 85.77, Silent labels (%): 0.01, Time (s): 13.07
+Train | Epoch 71.7 | Loss: 22.77, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 15.13
+Train | Epoch 71.8 | Loss: 23.42, Accuracy (%): 85.62, Silent labels (%): 0.01, Time (s): 17.2
+Train | Epoch 71.9 | Loss: 22.92, Accuracy (%): 85.85, Silent labels (%): 0.0, Time (s): 19.26
+Test | Epoch 72.0 | Loss: 30.24, Accuracy (%): 79.12, Learning rate: 0.003, Hidden layer 1 spike counts: 119.04, Output layer spike counts: 151.17, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1330.4, Output layer weights norm: 264.96, Time (s): 1.62
+Train | Epoch 72.0 | Loss: 23.0, Accuracy (%): 85.88, Silent labels (%): 0.0, Time (s): 0.68
+Train | Epoch 72.1 | Loss: 22.65, Accuracy (%): 86.12, Silent labels (%): 0.0, Time (s): 2.75
+Train | Epoch 72.2 | Loss: 22.77, Accuracy (%): 86.05, Silent labels (%): 0.0, Time (s): 4.82
+Train | Epoch 72.3 | Loss: 23.0, Accuracy (%): 85.63, Silent labels (%): 0.0, Time (s): 6.9
+Train | Epoch 72.4 | Loss: 22.86, Accuracy (%): 86.31, Silent labels (%): 0.0, Time (s): 8.98
+Train | Epoch 72.5 | Loss: 23.12, Accuracy (%): 85.72, Silent labels (%): 0.0, Time (s): 11.06
+Train | Epoch 72.6 | Loss: 23.04, Accuracy (%): 86.02, Silent labels (%): 0.0, Time (s): 13.14
+Train | Epoch 72.7 | Loss: 23.09, Accuracy (%): 85.7, Silent labels (%): 0.01, Time (s): 15.22
+Train | Epoch 72.8 | Loss: 23.12, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 17.3
+Train | Epoch 72.9 | Loss: 23.07, Accuracy (%): 86.24, Silent labels (%): 0.0, Time (s): 19.38
+Test | Epoch 73.0 | Loss: 30.33, Accuracy (%): 79.04, Learning rate: 0.003, Hidden layer 1 spike counts: 117.97, Output layer spike counts: 150.51, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1338.59, Output layer weights norm: 266.83, Time (s): 1.62
+Train | Epoch 73.0 | Loss: 22.88, Accuracy (%): 86.02, Silent labels (%): 0.01, Time (s): 0.57
+Train | Epoch 73.1 | Loss: 22.68, Accuracy (%): 86.54, Silent labels (%): 0.0, Time (s): 2.64
+Train | Epoch 73.2 | Loss: 22.87, Accuracy (%): 85.96, Silent labels (%): 0.0, Time (s): 4.71
+Train | Epoch 73.3 | Loss: 22.73, Accuracy (%): 86.46, Silent labels (%): 0.01, Time (s): 6.78
+Train | Epoch 73.4 | Loss: 23.06, Accuracy (%): 85.59, Silent labels (%): 0.0, Time (s): 8.85
+Train | Epoch 73.5 | Loss: 23.23, Accuracy (%): 85.99, Silent labels (%): 0.01, Time (s): 10.92
+Train | Epoch 73.6 | Loss: 23.37, Accuracy (%): 85.45, Silent labels (%): 0.0, Time (s): 12.99
+Train | Epoch 73.7 | Loss: 22.94, Accuracy (%): 86.09, Silent labels (%): 0.0, Time (s): 15.06
+Train | Epoch 73.8 | Loss: 23.13, Accuracy (%): 85.92, Silent labels (%): 0.0, Time (s): 17.13
+Train | Epoch 73.9 | Loss: 22.55, Accuracy (%): 86.7, Silent labels (%): 0.0, Time (s): 19.2
+Test | Epoch 74.0 | Loss: 30.63, Accuracy (%): 78.98, Learning rate: 0.003, Hidden layer 1 spike counts: 118.58, Output layer spike counts: 151.14, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1346.94, Output layer weights norm: 268.47, Time (s): 1.62
+Train | Epoch 74.0 | Loss: 23.21, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 0.51
+Train | Epoch 74.1 | Loss: 22.42, Accuracy (%): 86.34, Silent labels (%): 0.0, Time (s): 2.57
+Train | Epoch 74.2 | Loss: 22.85, Accuracy (%): 86.02, Silent labels (%): 0.0, Time (s): 4.64
+Train | Epoch 74.3 | Loss: 23.12, Accuracy (%): 85.74, Silent labels (%): 0.01, Time (s): 6.71
+Train | Epoch 74.4 | Loss: 23.02, Accuracy (%): 85.94, Silent labels (%): 0.0, Time (s): 8.79
+Train | Epoch 74.5 | Loss: 22.71, Accuracy (%): 86.29, Silent labels (%): 0.0, Time (s): 10.86
+Train | Epoch 74.6 | Loss: 22.58, Accuracy (%): 86.67, Silent labels (%): 0.0, Time (s): 12.92
+Train | Epoch 74.7 | Loss: 23.12, Accuracy (%): 85.72, Silent labels (%): 0.0, Time (s): 14.99
+Train | Epoch 74.8 | Loss: 23.07, Accuracy (%): 85.88, Silent labels (%): 0.02, Time (s): 17.06
+Train | Epoch 74.9 | Loss: 23.19, Accuracy (%): 85.87, Silent labels (%): 0.0, Time (s): 19.13
+Train | Epoch 75.0 | Loss: 23.25, Accuracy (%): 85.98, Silent labels (%): 0.01, Time (s): 21.2
+Test | Epoch 75.0 | Loss: 30.9, Accuracy (%): 78.95, Learning rate: 0.003, Hidden layer 1 spike counts: 113.79, Output layer spike counts: 148.1, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1355.25, Output layer weights norm: 270.17, Time (s): 1.62
+Train | Epoch 75.1 | Loss: 22.64, Accuracy (%): 86.49, Silent labels (%): 0.0, Time (s): 2.49
+Train | Epoch 75.2 | Loss: 22.66, Accuracy (%): 86.43, Silent labels (%): 0.0, Time (s): 4.58
+Train | Epoch 75.3 | Loss: 22.92, Accuracy (%): 85.8, Silent labels (%): 0.0, Time (s): 6.66
+Train | Epoch 75.4 | Loss: 22.99, Accuracy (%): 86.25, Silent labels (%): 0.0, Time (s): 8.75
+Train | Epoch 75.5 | Loss: 23.05, Accuracy (%): 85.98, Silent labels (%): 0.0, Time (s): 10.83
+Train | Epoch 75.6 | Loss: 23.04, Accuracy (%): 85.57, Silent labels (%): 0.0, Time (s): 12.92
+Train | Epoch 75.7 | Loss: 23.19, Accuracy (%): 86.21, Silent labels (%): 0.0, Time (s): 15.01
+Train | Epoch 75.8 | Loss: 23.02, Accuracy (%): 85.88, Silent labels (%): 0.0, Time (s): 17.09
+Train | Epoch 75.9 | Loss: 22.94, Accuracy (%): 85.92, Silent labels (%): 0.0, Time (s): 19.17
+Train | Epoch 76.0 | Loss: 22.62, Accuracy (%): 86.39, Silent labels (%): 0.0, Time (s): 21.24
+Test | Epoch 76.0 | Loss: 30.51, Accuracy (%): 78.94, Learning rate: 0.003, Hidden layer 1 spike counts: 116.08, Output layer spike counts: 150.98, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1363.42, Output layer weights norm: 272.06, Time (s): 1.62
+Train | Epoch 76.1 | Loss: 22.61, Accuracy (%): 86.3, Silent labels (%): 0.0, Time (s): 2.47
+Train | Epoch 76.2 | Loss: 22.63, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 4.55
+Train | Epoch 76.3 | Loss: 22.57, Accuracy (%): 86.4, Silent labels (%): 0.0, Time (s): 6.62
+Train | Epoch 76.4 | Loss: 22.79, Accuracy (%): 86.36, Silent labels (%): 0.01, Time (s): 8.69
+Train | Epoch 76.5 | Loss: 22.85, Accuracy (%): 86.12, Silent labels (%): 0.01, Time (s): 10.76
+Train | Epoch 76.6 | Loss: 23.0, Accuracy (%): 85.96, Silent labels (%): 0.0, Time (s): 12.83
+Train | Epoch 76.7 | Loss: 22.88, Accuracy (%): 86.26, Silent labels (%): 0.01, Time (s): 14.89
+Train | Epoch 76.8 | Loss: 23.19, Accuracy (%): 85.87, Silent labels (%): 0.0, Time (s): 16.96
+Train | Epoch 76.9 | Loss: 22.94, Accuracy (%): 86.23, Silent labels (%): 0.0, Time (s): 19.03
+Train | Epoch 77.0 | Loss: 23.19, Accuracy (%): 85.85, Silent labels (%): 0.0, Time (s): 21.1
+Test | Epoch 77.0 | Loss: 30.5, Accuracy (%): 78.9, Learning rate: 0.003, Hidden layer 1 spike counts: 114.06, Output layer spike counts: 150.29, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1371.67, Output layer weights norm: 273.89, Time (s): 1.63
+Train | Epoch 77.1 | Loss: 22.46, Accuracy (%): 85.98, Silent labels (%): 0.01, Time (s): 2.4
+Train | Epoch 77.2 | Loss: 22.66, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 4.47
+Train | Epoch 77.3 | Loss: 22.92, Accuracy (%): 85.8, Silent labels (%): 0.0, Time (s): 6.53
+Train | Epoch 77.4 | Loss: 22.56, Accuracy (%): 86.62, Silent labels (%): 0.0, Time (s): 8.6
+Train | Epoch 77.5 | Loss: 22.62, Accuracy (%): 86.48, Silent labels (%): 0.0, Time (s): 10.66
+Train | Epoch 77.6 | Loss: 22.92, Accuracy (%): 86.14, Silent labels (%): 0.01, Time (s): 12.73
+Train | Epoch 77.7 | Loss: 23.08, Accuracy (%): 86.05, Silent labels (%): 0.01, Time (s): 14.8
+Train | Epoch 77.8 | Loss: 23.04, Accuracy (%): 85.78, Silent labels (%): 0.0, Time (s): 16.86
+Train | Epoch 77.9 | Loss: 22.95, Accuracy (%): 86.12, Silent labels (%): 0.0, Time (s): 18.93
+Train | Epoch 78.0 | Loss: 22.94, Accuracy (%): 86.07, Silent labels (%): 0.0, Time (s): 20.99
+Test | Epoch 78.0 | Loss: 30.73, Accuracy (%): 78.81, Learning rate: 0.003, Hidden layer 1 spike counts: 113.66, Output layer spike counts: 150.36, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1379.6, Output layer weights norm: 275.74, Time (s): 1.62
+Train | Epoch 78.1 | Loss: 22.42, Accuracy (%): 86.55, Silent labels (%): 0.0, Time (s): 2.41
+Train | Epoch 78.2 | Loss: 22.82, Accuracy (%): 85.96, Silent labels (%): 0.0, Time (s): 4.48
+Train | Epoch 78.3 | Loss: 23.2, Accuracy (%): 85.68, Silent labels (%): 0.01, Time (s): 6.56
+Train | Epoch 78.4 | Loss: 22.56, Accuracy (%): 86.19, Silent labels (%): 0.0, Time (s): 8.63
+Train | Epoch 78.5 | Loss: 22.61, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 10.7
+Train | Epoch 78.6 | Loss: 22.8, Accuracy (%): 85.9, Silent labels (%): 0.01, Time (s): 12.77
+Train | Epoch 78.7 | Loss: 23.08, Accuracy (%): 86.09, Silent labels (%): 0.01, Time (s): 14.84
+Train | Epoch 78.8 | Loss: 22.82, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 16.91
+Train | Epoch 78.9 | Loss: 22.97, Accuracy (%): 86.05, Silent labels (%): 0.01, Time (s): 18.98
+Train | Epoch 79.0 | Loss: 23.07, Accuracy (%): 86.15, Silent labels (%): 0.0, Time (s): 21.05
+Test | Epoch 79.0 | Loss: 30.82, Accuracy (%): 78.88, Learning rate: 0.003, Hidden layer 1 spike counts: 114.51, Output layer spike counts: 151.49, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1387.56, Output layer weights norm: 277.54, Time (s): 1.63
+Train | Epoch 79.1 | Loss: 23.26, Accuracy (%): 85.48, Silent labels (%): 0.0, Time (s): 2.29
+Train | Epoch 79.2 | Loss: 22.64, Accuracy (%): 86.54, Silent labels (%): 0.0, Time (s): 4.36
+Train | Epoch 79.3 | Loss: 22.46, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 6.43
+Train | Epoch 79.4 | Loss: 22.87, Accuracy (%): 86.35, Silent labels (%): 0.01, Time (s): 8.51
+Train | Epoch 79.5 | Loss: 22.98, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 10.58
+Train | Epoch 79.6 | Loss: 22.61, Accuracy (%): 86.41, Silent labels (%): 0.0, Time (s): 12.64
+Train | Epoch 79.7 | Loss: 22.53, Accuracy (%): 86.73, Silent labels (%): 0.0, Time (s): 14.72
+Train | Epoch 79.8 | Loss: 22.77, Accuracy (%): 85.92, Silent labels (%): 0.0, Time (s): 16.79
+Train | Epoch 79.9 | Loss: 22.59, Accuracy (%): 86.39, Silent labels (%): 0.0, Time (s): 18.86
+Train | Epoch 80.0 | Loss: 22.99, Accuracy (%): 86.27, Silent labels (%): 0.0, Time (s): 20.93
+Test | Epoch 80.0 | Loss: 30.69, Accuracy (%): 78.85, Learning rate: 0.003, Hidden layer 1 spike counts: 113.14, Output layer spike counts: 151.17, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1395.49, Output layer weights norm: 279.33, Time (s): 1.63
+Train | Epoch 80.1 | Loss: 22.8, Accuracy (%): 85.84, Silent labels (%): 0.0, Time (s): 2.25
+Train | Epoch 80.2 | Loss: 22.28, Accuracy (%): 86.51, Silent labels (%): 0.0, Time (s): 4.33
+Train | Epoch 80.3 | Loss: 22.45, Accuracy (%): 86.57, Silent labels (%): 0.0, Time (s): 6.4
+Train | Epoch 80.4 | Loss: 22.58, Accuracy (%): 86.52, Silent labels (%): 0.0, Time (s): 8.47
+Train | Epoch 80.5 | Loss: 23.17, Accuracy (%): 85.74, Silent labels (%): 0.0, Time (s): 10.55
+Train | Epoch 80.6 | Loss: 22.5, Accuracy (%): 86.34, Silent labels (%): 0.0, Time (s): 12.62
+Train | Epoch 80.7 | Loss: 23.01, Accuracy (%): 85.83, Silent labels (%): 0.0, Time (s): 14.69
+Train | Epoch 80.8 | Loss: 22.54, Accuracy (%): 86.6, Silent labels (%): 0.0, Time (s): 16.76
+Train | Epoch 80.9 | Loss: 22.91, Accuracy (%): 86.14, Silent labels (%): 0.01, Time (s): 18.83
+Train | Epoch 81.0 | Loss: 22.75, Accuracy (%): 86.21, Silent labels (%): 0.0, Time (s): 20.9
+Test | Epoch 81.0 | Loss: 30.91, Accuracy (%): 78.65, Learning rate: 0.003, Hidden layer 1 spike counts: 111.91, Output layer spike counts: 149.15, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1403.28, Output layer weights norm: 280.93, Time (s): 1.62
+Train | Epoch 81.1 | Loss: 22.32, Accuracy (%): 86.32, Silent labels (%): 0.0, Time (s): 2.15
+Train | Epoch 81.2 | Loss: 22.52, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 4.21
+Train | Epoch 81.3 | Loss: 22.66, Accuracy (%): 86.29, Silent labels (%): 0.01, Time (s): 6.26
+Train | Epoch 81.4 | Loss: 22.56, Accuracy (%): 86.17, Silent labels (%): 0.0, Time (s): 8.32
+Train | Epoch 81.5 | Loss: 22.95, Accuracy (%): 86.22, Silent labels (%): 0.0, Time (s): 10.37
+Train | Epoch 81.6 | Loss: 22.56, Accuracy (%): 86.36, Silent labels (%): 0.0, Time (s): 12.43
+Train | Epoch 81.7 | Loss: 22.93, Accuracy (%): 86.04, Silent labels (%): 0.01, Time (s): 14.49
+Train | Epoch 81.8 | Loss: 22.83, Accuracy (%): 86.1, Silent labels (%): 0.01, Time (s): 16.54
+Train | Epoch 81.9 | Loss: 22.93, Accuracy (%): 85.87, Silent labels (%): 0.0, Time (s): 18.6
+Train | Epoch 82.0 | Loss: 22.96, Accuracy (%): 86.0, Silent labels (%): 0.0, Time (s): 20.65
+Test | Epoch 82.0 | Loss: 30.65, Accuracy (%): 78.89, Learning rate: 0.003, Hidden layer 1 spike counts: 109.88, Output layer spike counts: 150.6, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1411.05, Output layer weights norm: 282.66, Time (s): 1.63
+Train | Epoch 82.1 | Loss: 22.23, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 2.16
+Train | Epoch 82.2 | Loss: 22.66, Accuracy (%): 86.01, Silent labels (%): 0.0, Time (s): 4.23
+Train | Epoch 82.3 | Loss: 22.4, Accuracy (%): 86.12, Silent labels (%): 0.01, Time (s): 6.3
+Train | Epoch 82.4 | Loss: 22.85, Accuracy (%): 85.96, Silent labels (%): 0.0, Time (s): 8.38
+Train | Epoch 82.5 | Loss: 22.51, Accuracy (%): 86.54, Silent labels (%): 0.0, Time (s): 10.45
+Train | Epoch 82.6 | Loss: 22.58, Accuracy (%): 86.15, Silent labels (%): 0.0, Time (s): 12.52
+Train | Epoch 82.7 | Loss: 22.86, Accuracy (%): 86.23, Silent labels (%): 0.01, Time (s): 14.58
+Train | Epoch 82.8 | Loss: 22.63, Accuracy (%): 86.53, Silent labels (%): 0.02, Time (s): 16.65
+Train | Epoch 82.9 | Loss: 22.88, Accuracy (%): 86.3, Silent labels (%): 0.01, Time (s): 18.72
+Train | Epoch 83.0 | Loss: 22.68, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 20.78
+Test | Epoch 83.0 | Loss: 30.79, Accuracy (%): 78.73, Learning rate: 0.003, Hidden layer 1 spike counts: 110.14, Output layer spike counts: 150.31, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1418.84, Output layer weights norm: 284.43, Time (s): 1.62
+Train | Epoch 83.1 | Loss: 22.59, Accuracy (%): 86.3, Silent labels (%): 0.0, Time (s): 2.06
+Train | Epoch 83.2 | Loss: 22.0, Accuracy (%): 86.91, Silent labels (%): 0.0, Time (s): 4.12
+Train | Epoch 83.3 | Loss: 22.53, Accuracy (%): 86.2, Silent labels (%): 0.0, Time (s): 6.18
+Train | Epoch 83.4 | Loss: 22.46, Accuracy (%): 86.54, Silent labels (%): 0.01, Time (s): 8.25
+Train | Epoch 83.5 | Loss: 22.66, Accuracy (%): 85.9, Silent labels (%): 0.0, Time (s): 10.31
+Train | Epoch 83.6 | Loss: 22.52, Accuracy (%): 86.64, Silent labels (%): 0.01, Time (s): 12.37
+Train | Epoch 83.7 | Loss: 22.51, Accuracy (%): 86.56, Silent labels (%): 0.0, Time (s): 14.42
+Train | Epoch 83.8 | Loss: 22.99, Accuracy (%): 85.86, Silent labels (%): 0.0, Time (s): 16.48
+Train | Epoch 83.9 | Loss: 23.07, Accuracy (%): 85.91, Silent labels (%): 0.01, Time (s): 18.54
+Train | Epoch 84.0 | Loss: 23.0, Accuracy (%): 86.2, Silent labels (%): 0.0, Time (s): 20.6
+Test | Epoch 84.0 | Loss: 30.92, Accuracy (%): 78.85, Learning rate: 0.003, Hidden layer 1 spike counts: 109.05, Output layer spike counts: 150.71, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1426.43, Output layer weights norm: 286.18, Time (s): 1.62
+Train | Epoch 84.1 | Loss: 22.85, Accuracy (%): 86.15, Silent labels (%): 0.01, Time (s): 2.06
+Train | Epoch 84.2 | Loss: 22.41, Accuracy (%): 86.02, Silent labels (%): 0.02, Time (s): 4.13
+Train | Epoch 84.3 | Loss: 22.71, Accuracy (%): 86.2, Silent labels (%): 0.01, Time (s): 6.2
+Train | Epoch 84.4 | Loss: 22.58, Accuracy (%): 86.35, Silent labels (%): 0.0, Time (s): 8.27
+Train | Epoch 84.5 | Loss: 23.01, Accuracy (%): 85.99, Silent labels (%): 0.01, Time (s): 10.33
+Train | Epoch 84.6 | Loss: 22.36, Accuracy (%): 86.68, Silent labels (%): 0.0, Time (s): 12.4
+Train | Epoch 84.7 | Loss: 22.9, Accuracy (%): 86.14, Silent labels (%): 0.01, Time (s): 14.47
+Train | Epoch 84.8 | Loss: 22.75, Accuracy (%): 86.37, Silent labels (%): 0.01, Time (s): 16.54
+Train | Epoch 84.9 | Loss: 22.31, Accuracy (%): 86.71, Silent labels (%): 0.0, Time (s): 18.61
+Train | Epoch 85.0 | Loss: 22.96, Accuracy (%): 85.95, Silent labels (%): 0.01, Time (s): 20.68
+Test | Epoch 85.0 | Loss: 31.01, Accuracy (%): 79.02, Learning rate: 0.003, Hidden layer 1 spike counts: 110.79, Output layer spike counts: 152.95, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1434.16, Output layer weights norm: 287.97, Time (s): 1.64
+Train | Epoch 85.1 | Loss: 22.86, Accuracy (%): 86.23, Silent labels (%): 0.01, Time (s): 1.95
+Train | Epoch 85.2 | Loss: 22.17, Accuracy (%): 86.7, Silent labels (%): 0.01, Time (s): 4.01
+Train | Epoch 85.3 | Loss: 23.05, Accuracy (%): 85.8, Silent labels (%): 0.0, Time (s): 6.09
+Train | Epoch 85.4 | Loss: 22.27, Accuracy (%): 86.76, Silent labels (%): 0.01, Time (s): 8.16
+Train | Epoch 85.5 | Loss: 22.45, Accuracy (%): 86.38, Silent labels (%): 0.0, Time (s): 10.23
+Train | Epoch 85.6 | Loss: 22.88, Accuracy (%): 85.95, Silent labels (%): 0.0, Time (s): 12.3
+Train | Epoch 85.7 | Loss: 22.6, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 14.37
+Train | Epoch 85.8 | Loss: 22.89, Accuracy (%): 86.04, Silent labels (%): 0.0, Time (s): 16.44
+Train | Epoch 85.9 | Loss: 22.52, Accuracy (%): 86.45, Silent labels (%): 0.01, Time (s): 18.5
+Train | Epoch 86.0 | Loss: 22.6, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 20.56
+Test | Epoch 86.0 | Loss: 31.22, Accuracy (%): 78.43, Learning rate: 0.003, Hidden layer 1 spike counts: 109.5, Output layer spike counts: 151.92, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1441.7, Output layer weights norm: 289.83, Time (s): 1.61
+Train | Epoch 86.1 | Loss: 22.48, Accuracy (%): 86.02, Silent labels (%): 0.0, Time (s): 1.93
+Train | Epoch 86.2 | Loss: 22.35, Accuracy (%): 86.55, Silent labels (%): 0.01, Time (s): 4.0
+Train | Epoch 86.3 | Loss: 22.29, Accuracy (%): 86.34, Silent labels (%): 0.0, Time (s): 6.08
+Train | Epoch 86.4 | Loss: 22.27, Accuracy (%): 86.8, Silent labels (%): 0.0, Time (s): 8.16
+Train | Epoch 86.5 | Loss: 22.73, Accuracy (%): 86.36, Silent labels (%): 0.0, Time (s): 10.24
+Train | Epoch 86.6 | Loss: 22.81, Accuracy (%): 86.17, Silent labels (%): 0.0, Time (s): 12.33
+Train | Epoch 86.7 | Loss: 22.48, Accuracy (%): 86.39, Silent labels (%): 0.0, Time (s): 14.41
+Train | Epoch 86.8 | Loss: 22.71, Accuracy (%): 86.24, Silent labels (%): 0.02, Time (s): 16.49
+Train | Epoch 86.9 | Loss: 22.72, Accuracy (%): 86.11, Silent labels (%): 0.0, Time (s): 18.57
+Train | Epoch 87.0 | Loss: 22.59, Accuracy (%): 86.65, Silent labels (%): 0.0, Time (s): 20.65
+Test | Epoch 87.0 | Loss: 31.1, Accuracy (%): 78.45, Learning rate: 0.003, Hidden layer 1 spike counts: 106.87, Output layer spike counts: 152.37, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1449.16, Output layer weights norm: 291.45, Time (s): 1.65
+Train | Epoch 87.1 | Loss: 22.08, Accuracy (%): 86.52, Silent labels (%): 0.0, Time (s): 1.82
+Train | Epoch 87.2 | Loss: 22.34, Accuracy (%): 86.25, Silent labels (%): 0.0, Time (s): 3.89
+Train | Epoch 87.3 | Loss: 22.58, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 5.94
+Train | Epoch 87.4 | Loss: 22.12, Accuracy (%): 86.81, Silent labels (%): 0.0, Time (s): 8.0
+Train | Epoch 87.5 | Loss: 22.64, Accuracy (%): 86.03, Silent labels (%): 0.01, Time (s): 10.06
+Train | Epoch 87.6 | Loss: 22.78, Accuracy (%): 86.23, Silent labels (%): 0.0, Time (s): 12.12
+Train | Epoch 87.7 | Loss: 22.27, Accuracy (%): 86.93, Silent labels (%): 0.0, Time (s): 14.16
+Train | Epoch 87.8 | Loss: 22.75, Accuracy (%): 86.36, Silent labels (%): 0.0, Time (s): 16.21
+Train | Epoch 87.9 | Loss: 23.05, Accuracy (%): 86.16, Silent labels (%): 0.01, Time (s): 18.25
+Train | Epoch 88.0 | Loss: 23.1, Accuracy (%): 85.7, Silent labels (%): 0.02, Time (s): 20.3
+Test | Epoch 88.0 | Loss: 31.05, Accuracy (%): 78.45, Learning rate: 0.003, Hidden layer 1 spike counts: 106.98, Output layer spike counts: 151.9, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1456.64, Output layer weights norm: 293.12, Time (s): 1.61
+Train | Epoch 88.1 | Loss: 22.17, Accuracy (%): 86.48, Silent labels (%): 0.0, Time (s): 1.83
+Train | Epoch 88.2 | Loss: 21.85, Accuracy (%): 87.05, Silent labels (%): 0.0, Time (s): 3.9
+Train | Epoch 88.3 | Loss: 22.23, Accuracy (%): 86.67, Silent labels (%): 0.0, Time (s): 5.96
+Train | Epoch 88.4 | Loss: 22.66, Accuracy (%): 85.74, Silent labels (%): 0.0, Time (s): 8.03
+Train | Epoch 88.5 | Loss: 22.79, Accuracy (%): 86.0, Silent labels (%): 0.01, Time (s): 10.09
+Train | Epoch 88.6 | Loss: 22.96, Accuracy (%): 85.9, Silent labels (%): 0.02, Time (s): 12.15
+Train | Epoch 88.7 | Loss: 22.72, Accuracy (%): 86.14, Silent labels (%): 0.0, Time (s): 14.21
+Train | Epoch 88.8 | Loss: 22.51, Accuracy (%): 86.76, Silent labels (%): 0.01, Time (s): 16.27
+Train | Epoch 88.9 | Loss: 22.68, Accuracy (%): 86.28, Silent labels (%): 0.0, Time (s): 18.33
+Train | Epoch 89.0 | Loss: 22.64, Accuracy (%): 86.41, Silent labels (%): 0.01, Time (s): 20.39
+Test | Epoch 89.0 | Loss: 31.06, Accuracy (%): 78.46, Learning rate: 0.003, Hidden layer 1 spike counts: 105.25, Output layer spike counts: 150.09, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1464.03, Output layer weights norm: 294.78, Time (s): 1.62
+Train | Epoch 89.1 | Loss: 22.28, Accuracy (%): 86.23, Silent labels (%): 0.0, Time (s): 1.71
+Train | Epoch 89.2 | Loss: 22.37, Accuracy (%): 86.2, Silent labels (%): 0.0, Time (s): 3.75
+Train | Epoch 89.3 | Loss: 22.36, Accuracy (%): 86.8, Silent labels (%): 0.0, Time (s): 5.79
+Train | Epoch 89.4 | Loss: 22.29, Accuracy (%): 86.54, Silent labels (%): 0.0, Time (s): 7.83
+Train | Epoch 89.5 | Loss: 22.25, Accuracy (%): 86.55, Silent labels (%): 0.01, Time (s): 9.87
+Train | Epoch 89.6 | Loss: 22.87, Accuracy (%): 85.92, Silent labels (%): 0.01, Time (s): 11.91
+Train | Epoch 89.7 | Loss: 22.39, Accuracy (%): 86.56, Silent labels (%): 0.02, Time (s): 13.95
+Train | Epoch 89.8 | Loss: 22.91, Accuracy (%): 86.17, Silent labels (%): 0.02, Time (s): 15.98
+Train | Epoch 89.9 | Loss: 22.75, Accuracy (%): 86.46, Silent labels (%): 0.0, Time (s): 18.02
+Train | Epoch 90.0 | Loss: 22.53, Accuracy (%): 86.58, Silent labels (%): 0.02, Time (s): 20.06
+Test | Epoch 90.0 | Loss: 31.21, Accuracy (%): 78.38, Learning rate: 0.003, Hidden layer 1 spike counts: 106.18, Output layer spike counts: 151.62, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1471.3, Output layer weights norm: 296.54, Time (s): 1.61
+Train | Epoch 90.1 | Loss: 23.0, Accuracy (%): 85.83, Silent labels (%): 0.0, Time (s): 1.72
+Train | Epoch 90.2 | Loss: 22.18, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 3.77
+Train | Epoch 90.3 | Loss: 22.42, Accuracy (%): 86.8, Silent labels (%): 0.01, Time (s): 5.81
+Train | Epoch 90.4 | Loss: 22.58, Accuracy (%): 86.54, Silent labels (%): 0.01, Time (s): 7.89
+Train | Epoch 90.5 | Loss: 21.97, Accuracy (%): 87.2, Silent labels (%): 0.0, Time (s): 9.95
+Train | Epoch 90.6 | Loss: 22.36, Accuracy (%): 86.52, Silent labels (%): 0.0, Time (s): 12.0
+Train | Epoch 90.7 | Loss: 22.22, Accuracy (%): 86.84, Silent labels (%): 0.01, Time (s): 14.06
+Train | Epoch 90.8 | Loss: 22.9, Accuracy (%): 86.49, Silent labels (%): 0.01, Time (s): 16.11
+Train | Epoch 90.9 | Loss: 23.15, Accuracy (%): 85.72, Silent labels (%): 0.0, Time (s): 18.16
+Train | Epoch 91.0 | Loss: 22.63, Accuracy (%): 86.22, Silent labels (%): 0.01, Time (s): 20.22
+Test | Epoch 91.0 | Loss: 31.09, Accuracy (%): 78.39, Learning rate: 0.003, Hidden layer 1 spike counts: 103.65, Output layer spike counts: 150.67, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1478.78, Output layer weights norm: 298.17, Time (s): 1.62
+Train | Epoch 91.1 | Loss: 22.25, Accuracy (%): 86.76, Silent labels (%): 0.0, Time (s): 1.61
+Train | Epoch 91.2 | Loss: 21.87, Accuracy (%): 86.95, Silent labels (%): 0.0, Time (s): 3.65
+Train | Epoch 91.3 | Loss: 22.33, Accuracy (%): 86.54, Silent labels (%): 0.02, Time (s): 5.7
+Train | Epoch 91.4 | Loss: 22.57, Accuracy (%): 86.37, Silent labels (%): 0.01, Time (s): 7.75
+Train | Epoch 91.5 | Loss: 21.95, Accuracy (%): 87.13, Silent labels (%): 0.0, Time (s): 9.8
+Train | Epoch 91.6 | Loss: 22.79, Accuracy (%): 86.37, Silent labels (%): 0.01, Time (s): 11.85
+Train | Epoch 91.7 | Loss: 22.57, Accuracy (%): 86.23, Silent labels (%): 0.0, Time (s): 13.89
+Train | Epoch 91.8 | Loss: 22.7, Accuracy (%): 86.08, Silent labels (%): 0.0, Time (s): 15.94
+Train | Epoch 91.9 | Loss: 22.96, Accuracy (%): 85.88, Silent labels (%): 0.0, Time (s): 17.98
+Train | Epoch 92.0 | Loss: 22.29, Accuracy (%): 86.6, Silent labels (%): 0.0, Time (s): 20.03
+Test | Epoch 92.0 | Loss: 31.36, Accuracy (%): 78.18, Learning rate: 0.003, Hidden layer 1 spike counts: 103.37, Output layer spike counts: 151.23, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1485.97, Output layer weights norm: 299.88, Time (s): 1.62
+Train | Epoch 92.1 | Loss: 22.62, Accuracy (%): 86.47, Silent labels (%): 0.0, Time (s): 1.6
+Train | Epoch 92.2 | Loss: 22.12, Accuracy (%): 86.65, Silent labels (%): 0.0, Time (s): 3.65
+Train | Epoch 92.3 | Loss: 22.06, Accuracy (%): 86.78, Silent labels (%): 0.0, Time (s): 5.69
+Train | Epoch 92.4 | Loss: 22.19, Accuracy (%): 86.76, Silent labels (%): 0.0, Time (s): 7.74
+Train | Epoch 92.5 | Loss: 22.59, Accuracy (%): 86.15, Silent labels (%): 0.01, Time (s): 9.78
+Train | Epoch 92.6 | Loss: 22.37, Accuracy (%): 86.56, Silent labels (%): 0.0, Time (s): 11.82
+Train | Epoch 92.7 | Loss: 22.91, Accuracy (%): 85.88, Silent labels (%): 0.0, Time (s): 13.88
+Train | Epoch 92.8 | Loss: 22.67, Accuracy (%): 86.41, Silent labels (%): 0.0, Time (s): 15.94
+Train | Epoch 92.9 | Loss: 22.21, Accuracy (%): 87.16, Silent labels (%): 0.02, Time (s): 18.0
+Train | Epoch 93.0 | Loss: 22.68, Accuracy (%): 86.32, Silent labels (%): 0.0, Time (s): 20.06
+Test | Epoch 93.0 | Loss: 31.29, Accuracy (%): 78.11, Learning rate: 0.003, Hidden layer 1 spike counts: 102.95, Output layer spike counts: 150.25, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1493.11, Output layer weights norm: 301.54, Time (s): 1.62
+Train | Epoch 93.1 | Loss: 22.42, Accuracy (%): 85.96, Silent labels (%): 0.0, Time (s): 1.51
+Train | Epoch 93.2 | Loss: 22.38, Accuracy (%): 86.36, Silent labels (%): 0.01, Time (s): 3.56
+Train | Epoch 93.3 | Loss: 22.32, Accuracy (%): 86.25, Silent labels (%): 0.0, Time (s): 5.63
+Train | Epoch 93.4 | Loss: 22.34, Accuracy (%): 86.52, Silent labels (%): 0.0, Time (s): 7.68
+Train | Epoch 93.5 | Loss: 22.21, Accuracy (%): 86.94, Silent labels (%): 0.0, Time (s): 9.73
+Train | Epoch 93.6 | Loss: 22.38, Accuracy (%): 86.38, Silent labels (%): 0.0, Time (s): 11.78
+Train | Epoch 93.7 | Loss: 22.38, Accuracy (%): 86.77, Silent labels (%): 0.01, Time (s): 13.83
+Train | Epoch 93.8 | Loss: 22.81, Accuracy (%): 86.2, Silent labels (%): 0.01, Time (s): 15.87
+Train | Epoch 93.8 | Loss: 22.77, Accuracy (%): 86.58, Silent labels (%): 0.0, Time (s): 17.91
+Train | Epoch 93.9 | Loss: 22.78, Accuracy (%): 85.83, Silent labels (%): 0.0, Time (s): 19.95
+Test | Epoch 94.0 | Loss: 31.61, Accuracy (%): 78.34, Learning rate: 0.003, Hidden layer 1 spike counts: 104.78, Output layer spike counts: 150.09, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1500.31, Output layer weights norm: 303.04, Time (s): 1.61
+Train | Epoch 94.0 | Loss: 22.05, Accuracy (%): 87.12, Silent labels (%): 0.0, Time (s): 1.48
+Train | Epoch 94.1 | Loss: 22.43, Accuracy (%): 86.32, Silent labels (%): 0.01, Time (s): 3.52
+Train | Epoch 94.2 | Loss: 22.36, Accuracy (%): 87.0, Silent labels (%): 0.01, Time (s): 5.57
+Train | Epoch 94.3 | Loss: 22.27, Accuracy (%): 86.6, Silent labels (%): 0.0, Time (s): 7.62
+Train | Epoch 94.4 | Loss: 22.55, Accuracy (%): 86.13, Silent labels (%): 0.01, Time (s): 9.67
+Train | Epoch 94.5 | Loss: 22.39, Accuracy (%): 86.5, Silent labels (%): 0.0, Time (s): 11.72
+Train | Epoch 94.6 | Loss: 21.86, Accuracy (%): 86.87, Silent labels (%): 0.0, Time (s): 13.76
+Train | Epoch 94.7 | Loss: 22.6, Accuracy (%): 86.69, Silent labels (%): 0.0, Time (s): 15.81
+Train | Epoch 94.8 | Loss: 22.7, Accuracy (%): 85.86, Silent labels (%): 0.0, Time (s): 17.86
+Train | Epoch 94.9 | Loss: 22.28, Accuracy (%): 86.54, Silent labels (%): 0.0, Time (s): 19.91
+Test | Epoch 95.0 | Loss: 31.38, Accuracy (%): 78.2, Learning rate: 0.003, Hidden layer 1 spike counts: 103.01, Output layer spike counts: 151.33, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1507.36, Output layer weights norm: 304.74, Time (s): 1.62
+Train | Epoch 95.0 | Loss: 22.5, Accuracy (%): 86.5, Silent labels (%): 0.0, Time (s): 1.39
+Train | Epoch 95.1 | Loss: 22.42, Accuracy (%): 86.16, Silent labels (%): 0.01, Time (s): 3.45
+Train | Epoch 95.2 | Loss: 21.66, Accuracy (%): 87.19, Silent labels (%): 0.0, Time (s): 5.49
+Train | Epoch 95.3 | Loss: 22.52, Accuracy (%): 86.83, Silent labels (%): 0.0, Time (s): 7.53
+Train | Epoch 95.4 | Loss: 22.42, Accuracy (%): 86.33, Silent labels (%): 0.0, Time (s): 9.57
+Train | Epoch 95.5 | Loss: 22.78, Accuracy (%): 86.38, Silent labels (%): 0.01, Time (s): 11.62
+Train | Epoch 95.6 | Loss: 22.46, Accuracy (%): 86.68, Silent labels (%): 0.0, Time (s): 13.66
+Train | Epoch 95.7 | Loss: 22.5, Accuracy (%): 86.55, Silent labels (%): 0.01, Time (s): 15.7
+Train | Epoch 95.8 | Loss: 22.52, Accuracy (%): 86.36, Silent labels (%): 0.01, Time (s): 17.75
+Train | Epoch 95.9 | Loss: 22.38, Accuracy (%): 86.69, Silent labels (%): 0.0, Time (s): 19.79
+Test | Epoch 96.0 | Loss: 31.44, Accuracy (%): 78.28, Learning rate: 0.003, Hidden layer 1 spike counts: 101.65, Output layer spike counts: 151.85, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1514.35, Output layer weights norm: 306.31, Time (s): 1.62
+Train | Epoch 96.0 | Loss: 22.41, Accuracy (%): 86.47, Silent labels (%): 0.0, Time (s): 1.37
+Train | Epoch 96.1 | Loss: 22.38, Accuracy (%): 86.51, Silent labels (%): 0.01, Time (s): 3.42
+Train | Epoch 96.2 | Loss: 22.17, Accuracy (%): 87.0, Silent labels (%): 0.0, Time (s): 5.48
+Train | Epoch 96.3 | Loss: 22.17, Accuracy (%): 86.76, Silent labels (%): 0.01, Time (s): 7.53
+Train | Epoch 96.4 | Loss: 22.45, Accuracy (%): 86.59, Silent labels (%): 0.01, Time (s): 9.59
+Train | Epoch 96.5 | Loss: 22.31, Accuracy (%): 86.49, Silent labels (%): 0.0, Time (s): 11.65
+Train | Epoch 96.6 | Loss: 22.26, Accuracy (%): 87.18, Silent labels (%): 0.0, Time (s): 13.7
+Train | Epoch 96.7 | Loss: 22.42, Accuracy (%): 86.2, Silent labels (%): 0.0, Time (s): 15.76
+Train | Epoch 96.8 | Loss: 22.45, Accuracy (%): 85.98, Silent labels (%): 0.0, Time (s): 17.81
+Train | Epoch 96.9 | Loss: 22.53, Accuracy (%): 86.43, Silent labels (%): 0.0, Time (s): 19.88
+Test | Epoch 97.0 | Loss: 31.61, Accuracy (%): 78.2, Learning rate: 0.003, Hidden layer 1 spike counts: 101.53, Output layer spike counts: 151.83, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1521.33, Output layer weights norm: 307.65, Time (s): 1.62
+Train | Epoch 97.0 | Loss: 22.59, Accuracy (%): 86.3, Silent labels (%): 0.0, Time (s): 1.27
+Train | Epoch 97.1 | Loss: 22.07, Accuracy (%): 86.49, Silent labels (%): 0.0, Time (s): 3.33
+Train | Epoch 97.2 | Loss: 22.32, Accuracy (%): 86.23, Silent labels (%): 0.0, Time (s): 5.36
+Train | Epoch 97.3 | Loss: 22.18, Accuracy (%): 86.81, Silent labels (%): 0.0, Time (s): 7.4
+Train | Epoch 97.4 | Loss: 22.15, Accuracy (%): 86.46, Silent labels (%): 0.0, Time (s): 9.43
+Train | Epoch 97.5 | Loss: 22.39, Accuracy (%): 86.42, Silent labels (%): 0.01, Time (s): 11.47
+Train | Epoch 97.6 | Loss: 22.59, Accuracy (%): 86.44, Silent labels (%): 0.0, Time (s): 13.5
+Train | Epoch 97.7 | Loss: 22.61, Accuracy (%): 86.44, Silent labels (%): 0.0, Time (s): 15.54
+Train | Epoch 97.8 | Loss: 22.63, Accuracy (%): 86.6, Silent labels (%): 0.0, Time (s): 17.57
+Train | Epoch 97.9 | Loss: 22.45, Accuracy (%): 86.56, Silent labels (%): 0.01, Time (s): 19.61
+Test | Epoch 98.0 | Loss: 31.68, Accuracy (%): 78.14, Learning rate: 0.003, Hidden layer 1 spike counts: 99.12, Output layer spike counts: 149.57, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1528.42, Output layer weights norm: 309.24, Time (s): 1.61
+Train | Epoch 98.0 | Loss: 22.27, Accuracy (%): 86.44, Silent labels (%): 0.0, Time (s): 1.28
+Train | Epoch 98.1 | Loss: 21.92, Accuracy (%): 87.17, Silent labels (%): 0.01, Time (s): 3.34
+Train | Epoch 98.2 | Loss: 21.76, Accuracy (%): 87.35, Silent labels (%): 0.02, Time (s): 5.41
+Train | Epoch 98.3 | Loss: 22.2, Accuracy (%): 86.72, Silent labels (%): 0.01, Time (s): 7.47
+Train | Epoch 98.4 | Loss: 22.62, Accuracy (%): 86.34, Silent labels (%): 0.0, Time (s): 9.53
+Train | Epoch 98.5 | Loss: 22.48, Accuracy (%): 86.94, Silent labels (%): 0.0, Time (s): 11.6
+Train | Epoch 98.6 | Loss: 22.71, Accuracy (%): 85.98, Silent labels (%): 0.02, Time (s): 13.66
+Train | Epoch 98.7 | Loss: 22.42, Accuracy (%): 86.67, Silent labels (%): 0.0, Time (s): 15.72
+Train | Epoch 98.8 | Loss: 22.58, Accuracy (%): 85.99, Silent labels (%): 0.0, Time (s): 17.78
+Train | Epoch 98.9 | Loss: 22.67, Accuracy (%): 86.42, Silent labels (%): 0.0, Time (s): 19.84
+Test | Epoch 99.0 | Loss: 31.65, Accuracy (%): 77.93, Learning rate: 0.003, Hidden layer 1 spike counts: 102.1, Output layer spike counts: 151.76, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1535.36, Output layer weights norm: 310.77, Time (s): 1.62
+Train | Epoch 99.0 | Loss: 22.52, Accuracy (%): 86.64, Silent labels (%): 0.01, Time (s): 1.19
+Train | Epoch 99.1 | Loss: 22.19, Accuracy (%): 86.67, Silent labels (%): 0.0, Time (s): 3.24
+Train | Epoch 99.2 | Loss: 22.28, Accuracy (%): 86.84, Silent labels (%): 0.02, Time (s): 5.3
+Train | Epoch 99.3 | Loss: 22.01, Accuracy (%): 86.87, Silent labels (%): 0.0, Time (s): 7.36
+Train | Epoch 99.4 | Loss: 22.1, Accuracy (%): 86.69, Silent labels (%): 0.0, Time (s): 9.41
+Train | Epoch 99.5 | Loss: 22.47, Accuracy (%): 86.4, Silent labels (%): 0.02, Time (s): 11.47
+Train | Epoch 99.6 | Loss: 22.31, Accuracy (%): 87.04, Silent labels (%): 0.02, Time (s): 13.53
+Train | Epoch 99.7 | Loss: 22.54, Accuracy (%): 86.37, Silent labels (%): 0.0, Time (s): 15.59
+Train | Epoch 99.8 | Loss: 22.17, Accuracy (%): 86.75, Silent labels (%): 0.0, Time (s): 17.65
+Train | Epoch 99.9 | Loss: 22.34, Accuracy (%): 86.44, Silent labels (%): 0.0, Time (s): 19.68
+Test | Epoch 100.0 | Loss: 31.59, Accuracy (%): 77.94, Learning rate: 0.003, Hidden layer 1 spike counts: 100.37, Output layer spike counts: 152.24, Hidden layer 1 silents (%): 0.0, Output layer silents (%): 0.0, Hidden layer 1 weights norm: 1542.37, Output layer weights norm: 312.37, Time (s): 1.61
